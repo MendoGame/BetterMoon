@@ -1,0 +1,170 @@
+/* CONFIG_SECTION
+ * Version: 2.1.7
+ * Last updated: 2026-09-02T10:14:09.830368100
+ */
+{
+  "version": "2.1.7",
+  "configId": "cobblespawners",
+  "spawnerPos": {
+    "x": 49,
+    "y": 117,
+    "z": 130
+  },
+  "spawnerName": "spawner_2",
+  "selectedPokemon": [
+    {
+      "pokemonName": "pidgey",
+      "formName": "Normal",
+      "aspects": [],
+      "spawnChance": 50.0,
+      "spawnChanceType": "COMPETITIVE",
+      "minLevel": 3,
+      "maxLevel": 5,
+      "sizeSettings": {
+        "allowCustomSize": false,
+        "minSize": 1.0,
+        "maxSize": 1.0
+      },
+      "captureSettings": {
+        "isCatchable": false,
+        "restrictCaptureToLimitedBalls": false,
+        "requiredPokeBalls": [
+          "poke_ball"
+        ]
+      },
+      "ivSettings": {
+        "allowCustomIvs": false,
+        "minIVHp": 0,
+        "maxIVHp": 5,
+        "minIVAttack": 0,
+        "maxIVAttack": 5,
+        "minIVDefense": 0,
+        "maxIVDefense": 5,
+        "minIVSpecialAttack": 0,
+        "maxIVSpecialAttack": 5,
+        "minIVSpecialDefense": 0,
+        "maxIVSpecialDefense": 5,
+        "minIVSpeed": 0,
+        "maxIVSpeed": 5
+      },
+      "evSettings": {
+        "allowCustomEvsOnDefeat": false,
+        "evHp": 0,
+        "evAttack": 0,
+        "evDefense": 0,
+        "evSpecialAttack": 0,
+        "evSpecialDefense": 0,
+        "evSpeed": 0
+      },
+      "spawnSettings": {
+        "spawnTime": "ALL",
+        "spawnWeather": "ALL",
+        "spawnLocation": "ALL"
+      },
+      "heldItemsOnSpawn": {
+        "allowHeldItemsOnSpawn": false,
+        "itemsWithChance": {
+          "minecraft:cobblestone": 0.1,
+          "cobblemon:pokeball": 100.0
+        }
+      },
+      "moves": {
+        "allowCustomInitialMoves": false,
+        "selectedMoves": [
+          {
+            "level": 1,
+            "moveId": "tackle",
+            "forced": false
+          },
+          {
+            "level": 5,
+            "moveId": "sandattack",
+            "forced": false
+          },
+          {
+            "level": 9,
+            "moveId": "gust",
+            "forced": false
+          },
+          {
+            "level": 13,
+            "moveId": "quickattack",
+            "forced": false
+          },
+          {
+            "level": 17,
+            "moveId": "whirlwind",
+            "forced": false
+          },
+          {
+            "level": 21,
+            "moveId": "twister",
+            "forced": false
+          },
+          {
+            "level": 25,
+            "moveId": "featherdance",
+            "forced": false
+          },
+          {
+            "level": 29,
+            "moveId": "agility",
+            "forced": false
+          },
+          {
+            "level": 33,
+            "moveId": "wingattack",
+            "forced": false
+          },
+          {
+            "level": 37,
+            "moveId": "roost",
+            "forced": false
+          },
+          {
+            "level": 41,
+            "moveId": "tailwind",
+            "forced": false
+          },
+          {
+            "level": 45,
+            "moveId": "mirrormove",
+            "forced": false
+          },
+          {
+            "level": 49,
+            "moveId": "airslash",
+            "forced": false
+          },
+          {
+            "level": 53,
+            "moveId": "hurricane",
+            "forced": false
+          }
+        ]
+      }
+    }
+  ],
+  "dimension": "minecraft:overworld",
+  "spawnTimerTicks": 20,
+  "spawnRadius": {
+    "width": 4,
+    "height": 1
+  },
+  "spawnLimit": 2,
+  "spawnAmountPerSpawn": 1,
+  "visible": true,
+  "lowLevelEntitySpawn": false,
+  "wanderingSettings": {
+    "enabled": true,
+    "wanderType": "RADIUS",
+    "wanderDistance": 4
+  },
+  "forceChunkLoading": true,
+  "chunkLoadRadius": 1,
+  "requirePlayerInRange": true,
+  "playerActivationRange": 30
+}
+/*
+ * END_CONFIG_SECTION
+ */

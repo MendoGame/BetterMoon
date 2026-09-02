@@ -1,0 +1,410 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tutoriel"
+	group: "387438279F27C41E"
+	icon: {
+		id: "minecraft:writable_book"
+	}
+	id: "796FFE460D7E6B82"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7C899F02E26994B1"
+			rewards: [
+				{
+					command: "/cobbledollars give @p 25"
+					icon: {
+						id: "numismatic-overhaul:bronze_coin"
+					}
+					id: "661030B2D804B392"
+					type: "command"
+				}
+				{
+					count: 5
+					id: "270937F6FB99B64E"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+			]
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "minecraft:villager_spawn_egg"
+				}
+				id: "451378B563297EFA"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C899F02E26994B1"]
+			id: "78904018F8B5FFD3"
+			rewards: [
+				{
+					command: "/cobbledollars give @p 25"
+					icon: {
+						id: "numismatic-overhaul:bronze_coin"
+					}
+					id: "56FAE89AF00A8F6D"
+					type: "command"
+				}
+				{
+					id: "141CF526740D6D67"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"La lettre de Papi\""
+							"minecraft:writable_book_content": {
+								pages: [
+									{
+										raw: "Mon cher enfant,\nSi tu lis ces mots, cela signifie que tu es arrivé sain et sauf à Neolys,\nJe sais que le voyage a été long et difficile.. et je sais aussi ce que tu as perdu dans l'incendie de la Tour Cendrée. Il n'y a pas de mots assez forts pour apaiser une telle douleur, mais sache que tu n'es pas seul."
+									}
+									{
+										raw: "Depuis toujours, ta famille a vécu aux côtés des pokémon avec respect et courage. C'est pour cela que j'ai voulu que tu partes vers cette région, pour que tu puisses trouver ta propre voie. J'ai entendu dire que cette ville est un endroit idéal pour devenir dresseur. Si tu le souhaites encore, je peux t'aider."
+									}
+									{
+										raw: "Va rencontrer le Professeur Varn. Il t'apprendra tout ce qu'il faut savoir pour vivre avec les pokémon.\nTon rêve de devenir dresseur marque la début de ton plus grand voyage.\n\n-Ton grand-père"
+									}
+								]
+							}
+						}
+						count: 1
+						id: "minecraft:writable_book"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "69F79FB896DB9B7F"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+			]
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "minecraft:villager_spawn_egg"
+				}
+				id: "642EC33F92F2C429"
+				type: "custom"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78904018F8B5FFD3"]
+			icon: {
+				id: "minecraft:recovery_compass"
+			}
+			id: "00E7456FFD56B12F"
+			rewards: [
+				{
+					command: "/cobbledollars give @p 25"
+					icon: {
+						id: "numismatic-overhaul:bronze_coin"
+					}
+					id: "75BE2E7933D4EF3F"
+					type: "command"
+				}
+				{
+					count: 5
+					id: "655CC5DC338052AC"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+				{
+					count: 20
+					id: "210F7517B9EB33A8"
+					item: {
+						count: 1
+						id: "cobblemon:poke_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "79EA4C9EC05A359B"
+					item: {
+						count: 1
+						id: "cobblemon:pokedex_red"
+					}
+					type: "item"
+				}
+				{
+					id: "06AF7EC8FD7F91F5"
+					item: {
+						count: 1
+						id: "waystones:warp_stone"
+					}
+					type: "item"
+				}
+			]
+			shape: "none"
+			tasks: [
+				{
+					icon: {
+						id: "minecraft:brush"
+					}
+					id: "232D05A772962C9D"
+					type: "custom"
+				}
+				{
+					action: "defeat"
+					amount: 2L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					icon: {
+						id: "cobblemon:suspicious_sherd"
+					}
+					id: "686F151BB83FDCC9"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:pidgey"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					icon: {
+						id: "minecraft:villager_spawn_egg"
+					}
+					id: "5FA82C896F4CE905"
+					type: "custom"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6D371A5075626E0F"]
+			icon: {
+				id: "minecraft:map"
+			}
+			id: "2C501606411D665F"
+			rewards: [
+				{
+					command: "/cobbledollars give @p 25"
+					icon: {
+						id: "numismatic-overhaul:bronze_coin"
+					}
+					id: "3482DF93A53E691C"
+					type: "command"
+				}
+				{
+					id: "43DEEA52A4B95DB9"
+					item: {
+						count: 1
+						id: "badgebox:badgesbox"
+					}
+					type: "item"
+				}
+			]
+			shape: "none"
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					icon: {
+						id: "minecraft:map"
+					}
+					id: "0E76450F06B9C01A"
+					type: "dimension"
+				}
+				{
+					action: "catch"
+					amount: 5L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					icon: {
+						id: "cobblemon:azure_ball"
+					}
+					id: "72EBDF84F3DFFC98"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: ""
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "level_up"
+					amount: 5L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					icon: {
+						id: "cobblemon:rare_candy"
+					}
+					id: "0D9E5987E06BB7F8"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: ""
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["00E7456FFD56B12F"]
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "6D371A5075626E0F"
+			rewards: [
+				{
+					count: 5
+					id: "3CC7436564AF7183"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 25"
+					icon: {
+						id: "numismatic-overhaul:bronze_coin"
+					}
+					id: "63471379AD5582A6"
+					type: "command"
+				}
+			]
+			shape: "none"
+			tasks: [
+				{
+					dimension: "minecraft:"
+					icon: {
+						id: "cobblemon:red_plaque"
+					}
+					id: "1D59F1B0B5814CFE"
+					ignore_dimension: false
+					position: [I;
+						0
+						0
+						0
+					]
+					size: [I;
+						1
+						1
+						1
+					]
+					type: "location"
+				}
+				{
+					dimension: "minecraft:"
+					icon: {
+						id: "cobblemon:blue_plaque"
+					}
+					id: "1B969B13E64381C5"
+					ignore_dimension: false
+					position: [I;
+						0
+						0
+						0
+					]
+					size: [I;
+						1
+						1
+						1
+					]
+					type: "location"
+				}
+				{
+					dimension: "minecraft:"
+					icon: {
+						id: "cobblemon:yellow_plaque"
+					}
+					id: "26B83ED6C4CA4F70"
+					ignore_dimension: false
+					position: [I;
+						0
+						0
+						0
+					]
+					size: [I;
+						1
+						1
+						1
+					]
+					type: "location"
+				}
+				{
+					dimension: "minecraft:"
+					icon: {
+						id: "cobblemon:green_plaque"
+					}
+					id: "5936EA38031C1A2A"
+					ignore_dimension: false
+					position: [I;
+						0
+						0
+						0
+					]
+					size: [I;
+						1
+						1
+						1
+					]
+					type: "location"
+				}
+				{
+					dimension: "minecraft:"
+					icon: {
+						id: "cobblemon:orange_plaque"
+					}
+					id: "3A13BAF3A163CA23"
+					ignore_dimension: false
+					position: [I;
+						0
+						0
+						0
+					]
+					size: [I;
+						1
+						1
+						1
+					]
+					type: "location"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+	]
+}

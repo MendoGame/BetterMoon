@@ -1,0 +1,56 @@
+{
+  "premiumUnlockItemCost": 32,
+  "premiumUnlockItemOrTag": "minecraft:diamond",
+  "premiumUnlockCobbleDollarsCost": 0,
+  "premiumUnlockCurrency": "ITEM",
+  "premiumEnabled": true,
+  "bpxpBoostBossBarEnabled": true,
+  "xpPerTier": 150,
+  "tierCount": 100,
+  "specializedQuestRotationMinutes": 20,
+  "perPlayerBounties": false,
+  "perPlayerQuests": false,
+  "bountySpawnNotificationsGlobalWhenShared": true,
+  "normalQuestXp": {
+    "captureXp": 10,
+    "evolutionXp": 50,
+    "defeatXp": 8
+  },
+  "randomBoostEvents": {
+    "enabled": false,
+    "minIntervalMinutes": 60,
+    "maxIntervalMinutes": 180,
+    "minMultiplier": 1.5,
+    "maxMultiplier": 3.0,
+    "minDurationMinutes": 10,
+    "maxDurationMinutes": 30
+  },
+  "normalStatTrackers": [
+    {
+      "event": "capture",
+      "statIds": [
+        "cobblemon:pokemon_caught",
+        "cobblemon:pokemon_captured",
+        "cobblemon:captures"
+      ]
+    },
+    {
+      "event": "evolution",
+      "statIds": [
+        "cobblemon:pokemon_evolved",
+        "cobblemon:evolutions"
+      ]
+    },
+    {
+      "event": "defeat",
+      "statIds": [
+        "cobblemon:battle_victories",
+        "cobblemon:battle_won",
+        "cobblemon:battles_won",
+        "cobblemon:pokemon_defeated",
+        "cobblemon:pokemon_fainted",
+        "cobblemon:defeats"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/feu.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㊇"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/eau.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㈥"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/plante.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㈠"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/electrik.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㊈"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/glace.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㊃"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/combat.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㈨"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/poison.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㈢"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sol.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㊂"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/vol.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㊁"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/psy.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㊀"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/insecte.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㈡"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/roche.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㊆"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/spectre.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㈤"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/dragon.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㊄"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/tenebre.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㈦"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/acier.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㈩"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/fee.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㈧"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/normal.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㈣"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/livre.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㋐"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/discord.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㋑"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/options.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㋒"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/grade.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㋓"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chasse.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "㋔"
+      ]
+    }
+  ]
+}

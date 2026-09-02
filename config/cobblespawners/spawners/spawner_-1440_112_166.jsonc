@@ -1,0 +1,294 @@
+/* CONFIG_SECTION
+ * Version: 2.1.7
+ * Last updated: 2026-09-02T10:14:09.800308100
+ */
+{
+  "version": "2.1.7",
+  "configId": "cobblespawners",
+  "spawnerPos": {
+    "x": -1440,
+    "y": 112,
+    "z": 166
+  },
+  "spawnerName": "Spawner_Village_tuto02",
+  "selectedPokemon": [
+    {
+      "pokemonName": "rattata",
+      "formName": "Normal",
+      "aspects": [],
+      "spawnChance": 50.0,
+      "spawnChanceType": "COMPETITIVE",
+      "minLevel": 10,
+      "maxLevel": 15,
+      "sizeSettings": {
+        "allowCustomSize": false,
+        "minSize": 1.0,
+        "maxSize": 1.0
+      },
+      "captureSettings": {
+        "isCatchable": true,
+        "restrictCaptureToLimitedBalls": false,
+        "requiredPokeBalls": [
+          "poke_ball"
+        ]
+      },
+      "ivSettings": {
+        "allowCustomIvs": false,
+        "minIVHp": 0,
+        "maxIVHp": 31,
+        "minIVAttack": 0,
+        "maxIVAttack": 31,
+        "minIVDefense": 0,
+        "maxIVDefense": 31,
+        "minIVSpecialAttack": 0,
+        "maxIVSpecialAttack": 31,
+        "minIVSpecialDefense": 0,
+        "maxIVSpecialDefense": 31,
+        "minIVSpeed": 0,
+        "maxIVSpeed": 31
+      },
+      "evSettings": {
+        "allowCustomEvsOnDefeat": false,
+        "evHp": 0,
+        "evAttack": 0,
+        "evDefense": 0,
+        "evSpecialAttack": 0,
+        "evSpecialDefense": 0,
+        "evSpeed": 0
+      },
+      "spawnSettings": {
+        "spawnTime": "ALL",
+        "spawnWeather": "ALL",
+        "spawnLocation": "ALL"
+      },
+      "heldItemsOnSpawn": {
+        "allowHeldItemsOnSpawn": false,
+        "itemsWithChance": {
+          "minecraft:cobblestone": 0.1,
+          "cobblemon:pokeball": 100.0
+        }
+      },
+      "moves": {
+        "allowCustomInitialMoves": false,
+        "selectedMoves": [
+          {
+            "level": 1,
+            "moveId": "tackle",
+            "forced": false
+          },
+          {
+            "level": 1,
+            "moveId": "tailwhip",
+            "forced": false
+          },
+          {
+            "level": 4,
+            "moveId": "quickattack",
+            "forced": false
+          },
+          {
+            "level": 7,
+            "moveId": "focusenergy",
+            "forced": false
+          },
+          {
+            "level": 10,
+            "moveId": "bite",
+            "forced": false
+          },
+          {
+            "level": 13,
+            "moveId": "pursuit",
+            "forced": false
+          },
+          {
+            "level": 16,
+            "moveId": "hyperfang",
+            "forced": false
+          },
+          {
+            "level": 19,
+            "moveId": "assurance",
+            "forced": false
+          },
+          {
+            "level": 22,
+            "moveId": "crunch",
+            "forced": false
+          },
+          {
+            "level": 25,
+            "moveId": "suckerpunch",
+            "forced": false
+          },
+          {
+            "level": 28,
+            "moveId": "superfang",
+            "forced": false
+          },
+          {
+            "level": 31,
+            "moveId": "doubleedge",
+            "forced": false
+          },
+          {
+            "level": 34,
+            "moveId": "endeavor",
+            "forced": false
+          }
+        ]
+      }
+    },
+    {
+      "pokemonName": "rattata",
+      "formName": "Normal",
+      "aspects": [
+        "Alolan"
+      ],
+      "spawnChance": 50.0,
+      "spawnChanceType": "COMPETITIVE",
+      "minLevel": 10,
+      "maxLevel": 15,
+      "sizeSettings": {
+        "allowCustomSize": false,
+        "minSize": 1.0,
+        "maxSize": 1.0
+      },
+      "captureSettings": {
+        "isCatchable": true,
+        "restrictCaptureToLimitedBalls": false,
+        "requiredPokeBalls": [
+          "poke_ball"
+        ]
+      },
+      "ivSettings": {
+        "allowCustomIvs": false,
+        "minIVHp": 0,
+        "maxIVHp": 31,
+        "minIVAttack": 0,
+        "maxIVAttack": 31,
+        "minIVDefense": 0,
+        "maxIVDefense": 31,
+        "minIVSpecialAttack": 0,
+        "maxIVSpecialAttack": 31,
+        "minIVSpecialDefense": 0,
+        "maxIVSpecialDefense": 31,
+        "minIVSpeed": 0,
+        "maxIVSpeed": 31
+      },
+      "evSettings": {
+        "allowCustomEvsOnDefeat": false,
+        "evHp": 0,
+        "evAttack": 0,
+        "evDefense": 0,
+        "evSpecialAttack": 0,
+        "evSpecialDefense": 0,
+        "evSpeed": 0
+      },
+      "spawnSettings": {
+        "spawnTime": "ALL",
+        "spawnWeather": "ALL",
+        "spawnLocation": "ALL"
+      },
+      "heldItemsOnSpawn": {
+        "allowHeldItemsOnSpawn": false,
+        "itemsWithChance": {
+          "minecraft:cobblestone": 0.1,
+          "cobblemon:pokeball": 100.0
+        }
+      },
+      "moves": {
+        "allowCustomInitialMoves": false,
+        "selectedMoves": [
+          {
+            "level": 1,
+            "moveId": "tackle",
+            "forced": false
+          },
+          {
+            "level": 1,
+            "moveId": "tailwhip",
+            "forced": false
+          },
+          {
+            "level": 4,
+            "moveId": "quickattack",
+            "forced": false
+          },
+          {
+            "level": 7,
+            "moveId": "focusenergy",
+            "forced": false
+          },
+          {
+            "level": 10,
+            "moveId": "bite",
+            "forced": false
+          },
+          {
+            "level": 13,
+            "moveId": "pursuit",
+            "forced": false
+          },
+          {
+            "level": 16,
+            "moveId": "hyperfang",
+            "forced": false
+          },
+          {
+            "level": 19,
+            "moveId": "assurance",
+            "forced": false
+          },
+          {
+            "level": 22,
+            "moveId": "crunch",
+            "forced": false
+          },
+          {
+            "level": 25,
+            "moveId": "suckerpunch",
+            "forced": false
+          },
+          {
+            "level": 28,
+            "moveId": "superfang",
+            "forced": false
+          },
+          {
+            "level": 31,
+            "moveId": "doubleedge",
+            "forced": false
+          },
+          {
+            "level": 34,
+            "moveId": "endeavor",
+            "forced": false
+          }
+        ]
+      }
+    }
+  ],
+  "dimension": "minecraft:overworld",
+  "spawnTimerTicks": 60,
+  "spawnRadius": {
+    "width": 4,
+    "height": 4
+  },
+  "spawnLimit": 2,
+  "spawnAmountPerSpawn": 1,
+  "visible": false,
+  "lowLevelEntitySpawn": false,
+  "wanderingSettings": {
+    "enabled": true,
+    "wanderType": "RADIUS",
+    "wanderDistance": 1
+  },
+  "forceChunkLoading": true,
+  "chunkLoadRadius": 1,
+  "requirePlayerInRange": true,
+  "playerActivationRange": 30
+}
+/*
+ * END_CONFIG_SECTION
+ */

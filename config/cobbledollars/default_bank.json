@@ -1,0 +1,14 @@
+[
+  {
+    "item": "numismatic-overhaul:bronze_coin",
+    "price": "10"
+  },
+  {
+    "item": "numismatic-overhaul:silver_coin",
+    "price": "100"
+  },
+  {
+    "item": "numismatic-overhaul:gold_coin",
+    "price": "1000"
+  }
+]

@@ -1,0 +1,19 @@
+/* CONFIG_SECTION
+ * CobbleSpawners Main Configuration
+ * Version: 2.1.7
+ * Last updated: 2026-07-08T18:42:22.531997500
+ */
+{
+  "version": "2.1.7",
+  "configId": "cobblespawners",
+  "globalConfig": {
+    "debugEnabled": false,
+    "cullSpawnerPokemonOnServerStop": true,
+    "showUnimplementedPokemonInGui": false,
+    "showFormsInGui": true,
+    "showAspectsInGui": true
+  }
+}
+/*
+ * END_CONFIG_SECTION
+ */

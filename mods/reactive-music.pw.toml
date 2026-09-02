@@ -1,0 +1,8 @@
+name = "Reactive Music"
+filename = "reactivemusic-fabric-1.3.5+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/MendoGame/BetterMoon/releases/download/v1.0.0/reactivemusic-fabric-1.3.5+1.21.1.jar"
+hash-format = "sha256"
+hash = "beb9de3cd82d1ddebbba9baae65456f48c6f3be34712e946d782364b1bf6fdc0"

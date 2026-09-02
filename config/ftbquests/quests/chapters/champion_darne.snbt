@@ -1,0 +1,680 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "champion_darne"
+	group: ""
+	icon: {
+		id: "badgebox:badgesbox"
+	}
+	id: "65AE87C042D25E35"
+	images: [
+		{
+			height: 1.5d
+			id: "25F0093B00889806"
+			image: "image:textures/spritepierre.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.5d
+			id: "5FCA82A6AB908889"
+			image: "image:textures/spriteondine.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.5d
+			id: "5FFF31551422112B"
+			image: "image:textures/spritemajorbob.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			height: 1.5d
+			id: "13E63517C2511154"
+			image: "image:textures/spriteerika.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			height: 1.5d
+			id: "7E896B044D455177"
+			image: "image:textures/spritekoga.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			height: 1.5d
+			id: "2868F3311E6F3BA5"
+			image: "image:textures/spritemorgane.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 13.0d
+			y: 0.0d
+		}
+		{
+			click_action: "none:"
+			height: 1.5d
+			id: "0802188F3896A626"
+			image: "image:textures/priteauguste.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 14.9d
+			y: 0.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["692B8BF91AA84BE2"]
+			icon: {
+				id: "cobblemon-progress-items:rainbow_badge"
+			}
+			id: "0C36647FB2339C73"
+			require_sequential_tasks: false
+			rewards: [
+				{
+					id: "271908EF526E717E"
+					item: {
+						count: 1
+						id: "cobblemon-progress-items:rainbow_badge"
+					}
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					command: "/cobbledollars give @p 2900"
+					icon: {
+						id: "numismatic-overhaul:gold_coin"
+					}
+					id: "1524794ED773559A"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/function levelcap:badge4"
+					icon: {
+						id: "cobblemon:pokerod_smithing_template"
+					}
+					id: "1166E3FD8B81E62A"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "59BB4342458CAB70"
+					item: {
+						count: 1
+						id: "cobblemon-cards:booster_pack_grass"
+					}
+					type: "item"
+				}
+			]
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "cobblemon:capture_sherd"
+				}
+				id: "48EB812F1140C5C1"
+				type: "custom"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4B6886FB78A3FF1F"]
+			icon: {
+				id: "cobblemon-progress-items:soul_badge"
+			}
+			id: "56877DCB147A0A17"
+			require_sequential_tasks: false
+			rewards: [
+				{
+					id: "49364A34C6662B50"
+					item: {
+						count: 1
+						id: "cobblemon-progress-items:soul_badge"
+					}
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					command: "/cobbledollars give @p 4300"
+					icon: {
+						id: "numismatic-overhaul:gold_coin"
+					}
+					id: "3159F6A595204B96"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/function levelcap:badge5"
+					icon: {
+						id: "cobblemon:pokerod_smithing_template"
+					}
+					id: "49DD78FC526AABD2"
+					permission_level: 2
+					type: "command"
+				}
+				{
+					id: "68181F97D8C31BE7"
+					item: {
+						count: 1
+						id: "cobblemon-cards:booster_pack_poison"
+					}
+					type: "item"
+				}
+				{
+					id: "1D1857DAE38F077C"
+					item: {
+						count: 1
+						id: "cobblemon-cards:diamond_binder"
+					}
+					type: "item"
+				}
+			]
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "cobblemon:capture_sherd"
+				}
+				id: "08C24F2B3BE5E051"
+				type: "custom"
+			}]
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2B716E9CDCDBC2DA"]
+			icon: {
+				id: "cobblemon-progress-items:marsh_badge"
+			}
+			id: "3A75DA43C128A6A2"
+			require_sequential_tasks: false
+			rewards: [
+				{
+					id: "37E0F7CD096256A3"
+					item: {
+						count: 1
+						id: "cobblemon-progress-items:marsh_badge"
+					}
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					command: "/cobbledollars give @p 4300"
+					icon: {
+						id: "numismatic-overhaul:gold_coin"
+					}
+					id: "09B497DBC8CCD73E"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/function levelcap:badge6"
+					icon: {
+						id: "cobblemon:pokerod_smithing_template"
+					}
+					id: "54D52EBAD806CE4D"
+					permission_level: 2
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/function quetes:morganefin"
+					icon: {
+						id: "easy_npc:npc_key"
+					}
+					id: "040FDDEE04E07DDA"
+					type: "command"
+				}
+				{
+					id: "31DD8F0A2C00CB5E"
+					item: {
+						count: 1
+						id: "cobblemon-cards:booster_pack_psychic"
+					}
+					type: "item"
+				}
+			]
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "cobblemon:capture_sherd"
+				}
+				id: "1E054A0E9FD5A4C7"
+				type: "custom"
+			}]
+			x: 13.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3A75DA43C128A6A2"]
+			icon: {
+				id: "cobblemon-progress-items:volcano_badge"
+			}
+			id: "077BD26D025E9C79"
+			require_sequential_tasks: false
+			rewards: [
+				{
+					id: "4B15B7588BD0A4D6"
+					item: {
+						count: 1
+						id: "cobblemon-progress-items:volcano_badge"
+					}
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					command: "/cobbledollars give @p 4700"
+					icon: {
+						id: "numismatic-overhaul:gold_coin"
+					}
+					id: "1C5F8364E1556348"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/function levelcap:badge7"
+					icon: {
+						id: "cobblemon:pokerod_smithing_template"
+					}
+					id: "76B40D584ECBEEDD"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "660CF098D52C691C"
+					item: {
+						count: 1
+						id: "cobblemon-cards:booster_pack_fire"
+					}
+					type: "item"
+				}
+				{
+					id: "55D5DBB068273E8C"
+					item: {
+						count: 1
+						id: "cobblemon-cards:netherite_binder"
+					}
+					type: "item"
+				}
+			]
+			shape: "none"
+			x: 15.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2C501606411D665F"]
+			hide_dependency_lines: false
+			icon: {
+				id: "cobblemon-progress-items:boulder_badge"
+			}
+			id: "3DA7DF3036A35336"
+			rewards: [
+				{
+					id: "093FFBD18D4479C3"
+					item: {
+						count: 1
+						id: "cobblemon-progress-items:boulder_badge"
+					}
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					command: "/cobbledollars give @p 1400"
+					icon: {
+						id: "numismatic-overhaul:gold_coin"
+					}
+					id: "0CD9B2DF719AAEA1"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/function levelcap:badge1"
+					icon: {
+						id: "cobblemon:pokerod_smithing_template"
+					}
+					id: "5E61993D8448BAC4"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "2073F4EF1C9F3ADB"
+					item: {
+						count: 1
+						id: "cobblemon-cards:booster_pack_rock"
+					}
+					type: "item"
+				}
+				{
+					id: "4BFC8232D1B814A6"
+					item: {
+						count: 1
+						id: "cobblemon-cards:iron_binder"
+					}
+					type: "item"
+				}
+			]
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "cobblemon:capture_sherd"
+				}
+				id: "09A06CBAC9D04B39"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3DA7DF3036A35336"]
+			icon: {
+				id: "cobblemon-progress-items:cascade_badge"
+			}
+			id: "4D9A36A6443C7AC7"
+			rewards: [
+				{
+					id: "0B39FBA57E4D8B49"
+					item: {
+						count: 1
+						id: "cobblemon-progress-items:cascade_badge"
+					}
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					command: "/cobbledollars give @p 2100"
+					icon: {
+						id: "numismatic-overhaul:gold_coin"
+					}
+					id: "5579CF5A9F74DE66"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/function levelcap:badge2"
+					icon: {
+						id: "cobblemon:pokerod_smithing_template"
+					}
+					id: "3622DF5EE82A1461"
+					permission_level: 2
+					type: "command"
+				}
+				{
+					id: "3AE36B5C54E245B1"
+					item: {
+						count: 1
+						id: "cobblemon-cards:booster_pack_water"
+					}
+					type: "item"
+				}
+			]
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "cobblemon:capture_sherd"
+				}
+				id: "22CB1B4E0406B53A"
+				type: "custom"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4D9A36A6443C7AC7"]
+			icon: {
+				id: "cobblemon-progress-items:thunder_badge"
+			}
+			id: "725ABC5EB7C15154"
+			rewards: [
+				{
+					id: "32D98E022911F844"
+					item: {
+						count: 1
+						id: "cobblemon-progress-items:thunder_badge"
+					}
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					command: "/cobbledollars give @p 2300"
+					icon: {
+						id: "numismatic-overhaul:gold_coin"
+					}
+					id: "1A497C83728444CB"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/function levelcap:badge3"
+					icon: {
+						id: "cobblemon:pokerod_smithing_template"
+					}
+					id: "1C1B64E57F610369"
+					permission_level: 2
+					type: "command"
+				}
+				{
+					id: "6DDD45E9CB671791"
+					item: {
+						count: 1
+						id: "cobblemon-cards:booster_pack_electric"
+					}
+					type: "item"
+				}
+				{
+					id: "6AE39CB7F711B805"
+					item: {
+						count: 1
+						id: "cobblemon-cards:gold_binder"
+					}
+					type: "item"
+				}
+			]
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "cobblemon:capture_sherd"
+				}
+				id: "20D685062E26AB43"
+				type: "custom"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["725ABC5EB7C15154"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/arrow_collapsed.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.25d
+			id: "5F6C0B343382742A"
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "minecraft:villager_spawn_egg"
+				}
+				id: "050343BEA64509F2"
+				type: "custom"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5F6C0B343382742A"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/arrow_collapsed.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.25d
+			id: "692B8BF91AA84BE2"
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "minecraft:villager_spawn_egg"
+				}
+				id: "67C43E39B7E0EDCB"
+				type: "custom"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0C36647FB2339C73"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/arrow_collapsed.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.25d
+			id: "17A748CCB8CED166"
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "minecraft:villager_spawn_egg"
+				}
+				id: "793B8C5CD3DF3743"
+				type: "custom"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["17A748CCB8CED166"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/arrow_collapsed.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.25d
+			id: "4B6886FB78A3FF1F"
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "minecraft:villager_spawn_egg"
+				}
+				id: "66B42B13E76CA46C"
+				type: "custom"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["56877DCB147A0A17"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/arrow_collapsed.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.25d
+			id: "27E762AAB904C5C4"
+			rewards: [{
+				auto: "enabled"
+				command: "/function quetes:morgane1"
+				icon: {
+					id: "easy_npc:npc_key"
+				}
+				id: "26E047D02E0636B2"
+				permission_level: 2
+				silent: true
+				type: "command"
+			}]
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "minecraft:villager_spawn_egg"
+				}
+				id: "620DDF8E16B6A115"
+				type: "custom"
+			}]
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["44E99700FF6AA921"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/arrow_collapsed.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.25d
+			id: "2B716E9CDCDBC2DA"
+			rewards: [{
+				auto: "enabled"
+				command: "/function quetes:morgane3"
+				icon: {
+					id: "easy_npc:npc_key"
+				}
+				id: "02CD6FA56A8508C6"
+				permission_level: 2
+				silent: true
+				type: "command"
+			}]
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "minecraft:villager_spawn_egg"
+				}
+				id: "4B059D95E342CFF6"
+				type: "custom"
+			}]
+			x: 12.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["27E762AAB904C5C4"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/arrow_collapsed.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.25d
+			id: "44E99700FF6AA921"
+			rewards: [{
+				auto: "enabled"
+				command: "/function quetes:morgane2"
+				icon: {
+					id: "easy_npc:npc_key"
+				}
+				id: "5AD8CE3B4F7A316E"
+				permission_level: 2
+				silent: true
+				type: "command"
+			}]
+			shape: "none"
+			tasks: [{
+				icon: {
+					id: "minecraft:villager_spawn_egg"
+				}
+				id: "200A2527519E017A"
+				type: "custom"
+			}]
+			x: 11.0d
+			y: 1.0d
+		}
+	]
+}

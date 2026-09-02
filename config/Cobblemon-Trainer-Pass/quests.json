@@ -1,0 +1,649 @@
+{
+  "specializedQuests": {
+    "enabled": true,
+    "rotationMinutes": 20,
+    "activeQuestCount": 3,
+    "bountySpawnNotificationEnabled": true,
+    "bountySpawnNotificationsGlobalWhenShared": true,
+    "bountySpawnNotificationCooldownSeconds": 60,
+    "perPlayerBounties": false,
+    "perPlayerQuests": false,
+    "bountySpeciesPool": [],
+    "pool": [
+      {
+        "id": "catch_25_any",
+        "displayName": "Catch 25 Pokemon",
+        "type": "CAPTURE",
+        "target": "any",
+        "requiredAmount": 25,
+        "xpReward": 250,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_40_any",
+        "displayName": "Win 40 Pokemon Battles",
+        "type": "DEFEAT",
+        "target": "any",
+        "requiredAmount": 40,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "catch_random_species_1",
+        "displayName": "Catch 1 Random Species",
+        "type": "CAPTURE_SPECIES",
+        "target": "random",
+        "requiredAmount": 1,
+        "xpReward": 175,
+        "targetPool": []
+      },
+      {
+        "id": "catch_shiny_1",
+        "displayName": "Catch a Shiny Pokemon",
+        "type": "CAPTURE_SHINY",
+        "target": "any",
+        "requiredAmount": 1,
+        "xpReward": 750,
+        "targetPool": []
+      },
+      {
+        "id": "catch_legendary_1",
+        "displayName": "Catch a Legendary Pokemon",
+        "type": "CAPTURE_LEGENDARY",
+        "target": "any",
+        "requiredAmount": 1,
+        "xpReward": 1000,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_legendary_1",
+        "displayName": "Defeat a Legendary Pokemon",
+        "type": "DEFEAT_LEGENDARY",
+        "target": "any",
+        "requiredAmount": 1,
+        "xpReward": 900,
+        "targetPool": []
+      },
+      {
+        "id": "catch_starter_3",
+        "displayName": "Catch 3 Starter Pokemon",
+        "type": "CAPTURE_STARTER",
+        "target": "any",
+        "requiredAmount": 3,
+        "xpReward": 400,
+        "targetPool": []
+      },
+      {
+        "id": "catch_10_night",
+        "displayName": "Catch 10 Pokemon at Night",
+        "type": "CAPTURE_NIGHT",
+        "target": "any",
+        "requiredAmount": 10,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "catch_10_day",
+        "displayName": "Catch 10 Pokemon During the Day",
+        "type": "CAPTURE_DAY",
+        "target": "any",
+        "requiredAmount": 10,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "catch_8_random_biome",
+        "displayName": "Catch 8 Pokemon in a Random Biome",
+        "type": "CAPTURE_BIOME",
+        "target": "random",
+        "requiredAmount": 8,
+        "xpReward": 350,
+        "targetPool": [
+          "minecraft:plains",
+          "minecraft:forest",
+          "minecraft:birch_forest",
+          "minecraft:dark_forest",
+          "minecraft:taiga",
+          "minecraft:snowy_taiga",
+          "minecraft:desert",
+          "minecraft:savanna",
+          "minecraft:jungle",
+          "minecraft:swamp",
+          "minecraft:mangrove_swamp",
+          "minecraft:badlands",
+          "minecraft:meadow",
+          "minecraft:cherry_grove",
+          "minecraft:snowy_plains",
+          "minecraft:beach",
+          "minecraft:ocean",
+          "minecraft:river",
+          "minecraft:stony_shore",
+          "minecraft:windswept_hills"
+        ]
+      },
+      {
+        "id": "catch_5_random_ball",
+        "displayName": "Catch 5 Pokemon with a Random Poke Ball",
+        "type": "CAPTURE_POKEBALL",
+        "target": "random",
+        "requiredAmount": 5,
+        "xpReward": 350,
+        "targetPool": [
+          "poke_ball",
+          "great_ball",
+          "ultra_ball",
+          "premier_ball",
+          "dusk_ball",
+          "quick_ball",
+          "timer_ball",
+          "repeat_ball",
+          "net_ball",
+          "dive_ball",
+          "luxury_ball",
+          "heal_ball",
+          "nest_ball",
+          "lure_ball",
+          "level_ball",
+          "friend_ball",
+          "love_ball",
+          "moon_ball"
+        ]
+      },
+      {
+        "id": "catch_5_fully_evolved",
+        "displayName": "Catch 5 Fully Evolved Pokemon",
+        "type": "CAPTURE_FULLY_EVOLVED",
+        "target": "any",
+        "requiredAmount": 5,
+        "xpReward": 450,
+        "targetPool": []
+      },
+      {
+        "id": "evolve_5_pokemon",
+        "displayName": "Evolve 5 Pokemon",
+        "type": "EVOLUTION",
+        "target": "any",
+        "requiredAmount": 5,
+        "xpReward": 350,
+        "targetPool": []
+      },
+      {
+        "id": "catch_regional_form_1",
+        "displayName": "Catch 1 Regional Form Pokemon",
+        "type": "CAPTURE_REGIONAL_FORM",
+        "target": "any",
+        "requiredAmount": 1,
+        "xpReward": 500,
+        "targetPool": []
+      },
+      {
+        "id": "obtain_master_ball_1",
+        "displayName": "Obtain 1 Master Ball",
+        "type": "OBTAIN_ITEM",
+        "target": "cobblemon:master_ball",
+        "requiredAmount": 1,
+        "xpReward": 600,
+        "targetPool": []
+      },
+      {
+        "id": "obtain_random_loot_item_1",
+        "displayName": "Collect 1 Random Cobblemon Loot Item",
+        "type": "OBTAIN_ITEM",
+        "target": "random",
+        "requiredAmount": 1,
+        "xpReward": 300,
+        "targetPool": [
+          "cobblemon:rare_candy",
+          "cobblemon:exp_candy_s",
+          "cobblemon:exp_candy_m",
+          "cobblemon:exp_candy_l",
+          "cobblemon:poke_ball",
+          "cobblemon:great_ball",
+          "cobblemon:ultra_ball",
+          "cobblemon:quick_ball",
+          "cobblemon:dusk_ball",
+          "cobblemon:timer_ball",
+          "cobblemon:repeat_ball",
+          "cobblemon:luxury_ball",
+          "cobblemon:fire_stone",
+          "cobblemon:water_stone",
+          "cobblemon:thunder_stone",
+          "cobblemon:leaf_stone",
+          "cobblemon:moon_stone",
+          "cobblemon:sun_stone",
+          "cobblemon:dawn_stone",
+          "cobblemon:dusk_stone",
+          "cobblemon:shiny_stone",
+          "cobblemon:ice_stone",
+          "cobblemon:link_cable",
+          "cobblemon:everstone"
+        ]
+      },
+      {
+        "id": "obtain_rare_candies_5",
+        "displayName": "Obtain 5 Rare Candies",
+        "type": "OBTAIN_ITEM",
+        "target": "cobblemon:rare_candy",
+        "requiredAmount": 5,
+        "xpReward": 250,
+        "targetPool": []
+      },
+      {
+        "id": "obtain_ultra_balls_16",
+        "displayName": "Obtain 16 Ultra Balls",
+        "type": "OBTAIN_ITEM",
+        "target": "cobblemon:ultra_ball",
+        "requiredAmount": 16,
+        "xpReward": 200,
+        "targetPool": []
+      },
+      {
+        "id": "fish_5_pokemon",
+        "displayName": "Fish up 5 Pokemon",
+        "type": "FISH_POKEMON",
+        "target": "any",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "fish_10_pokemon",
+        "displayName": "Fish up 10 Pokemon",
+        "type": "FISH_POKEMON",
+        "target": "any",
+        "requiredAmount": 10,
+        "xpReward": 500,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_trainer_1",
+        "displayName": "Defeat a Trainer",
+        "type": "DEFEAT_TRAINER",
+        "target": "any",
+        "requiredAmount": 1,
+        "xpReward": 350,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_trainer_3",
+        "displayName": "Defeat 3 Trainers",
+        "type": "DEFEAT_TRAINER",
+        "target": "any",
+        "requiredAmount": 3,
+        "xpReward": 750,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_trainer_5",
+        "displayName": "Defeat 5 Trainers",
+        "type": "DEFEAT_TRAINER",
+        "target": "any",
+        "requiredAmount": 5,
+        "xpReward": 1100,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_kanto_gym_leader_1",
+        "displayName": "Defeat a Kanto Gym Leader",
+        "type": "DEFEAT_KANTO_GYM_LEADER",
+        "target": "any",
+        "requiredAmount": 1,
+        "xpReward": 900,
+        "targetPool": [
+          "brock",
+          "misty",
+          "lt_surge",
+          "surge",
+          "erika",
+          "koga",
+          "janine",
+          "sabrina",
+          "blaine",
+          "giovanni"
+        ]
+      },
+      {
+        "id": "catch_rare_1",
+        "displayName": "Catch a Rare Pokemon",
+        "type": "CAPTURE_RARE",
+        "target": "rare",
+        "requiredAmount": 1,
+        "xpReward": 550,
+        "targetPool": []
+      },
+      {
+        "id": "catch_ultra_rare_1",
+        "displayName": "Catch an Ultra Rare Pokemon",
+        "type": "CAPTURE_ULTRA_RARE",
+        "target": "ultra-rare",
+        "requiredAmount": 1,
+        "xpReward": 850,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_normal",
+        "displayName": "Catch 5 Normal-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "normal",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_normal",
+        "displayName": "Defeat 5 Normal-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "normal",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_fire",
+        "displayName": "Catch 5 Fire-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "fire",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_fire",
+        "displayName": "Defeat 5 Fire-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "fire",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_water",
+        "displayName": "Catch 5 Water-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "water",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_water",
+        "displayName": "Defeat 5 Water-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "water",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_grass",
+        "displayName": "Catch 5 Grass-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "grass",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_grass",
+        "displayName": "Defeat 5 Grass-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "grass",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_electric",
+        "displayName": "Catch 5 Electric-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "electric",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_electric",
+        "displayName": "Defeat 5 Electric-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "electric",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_ice",
+        "displayName": "Catch 5 Ice-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "ice",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_ice",
+        "displayName": "Defeat 5 Ice-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "ice",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_fighting",
+        "displayName": "Catch 5 Fighting-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "fighting",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_fighting",
+        "displayName": "Defeat 5 Fighting-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "fighting",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_poison",
+        "displayName": "Catch 5 Poison-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "poison",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_poison",
+        "displayName": "Defeat 5 Poison-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "poison",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_ground",
+        "displayName": "Catch 5 Ground-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "ground",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_ground",
+        "displayName": "Defeat 5 Ground-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "ground",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_flying",
+        "displayName": "Catch 5 Flying-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "flying",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_flying",
+        "displayName": "Defeat 5 Flying-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "flying",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_psychic",
+        "displayName": "Catch 5 Psychic-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "psychic",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_psychic",
+        "displayName": "Defeat 5 Psychic-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "psychic",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_bug",
+        "displayName": "Catch 5 Bug-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "bug",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_bug",
+        "displayName": "Defeat 5 Bug-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "bug",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_rock",
+        "displayName": "Catch 5 Rock-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "rock",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_rock",
+        "displayName": "Defeat 5 Rock-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "rock",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_ghost",
+        "displayName": "Catch 5 Ghost-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "ghost",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_ghost",
+        "displayName": "Defeat 5 Ghost-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "ghost",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_dragon",
+        "displayName": "Catch 5 Dragon-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "dragon",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_dragon",
+        "displayName": "Defeat 5 Dragon-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "dragon",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_dark",
+        "displayName": "Catch 5 Dark-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "dark",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_dark",
+        "displayName": "Defeat 5 Dark-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "dark",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_steel",
+        "displayName": "Catch 5 Steel-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "steel",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_steel",
+        "displayName": "Defeat 5 Steel-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "steel",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      },
+      {
+        "id": "catch_5_fairy",
+        "displayName": "Catch 5 Fairy-type Pokemon",
+        "type": "CAPTURE_TYPE",
+        "target": "fairy",
+        "requiredAmount": 5,
+        "xpReward": 300,
+        "targetPool": []
+      },
+      {
+        "id": "defeat_5_fairy",
+        "displayName": "Defeat 5 Fairy-type Pokemon",
+        "type": "DEFEAT_TYPE",
+        "target": "fairy",
+        "requiredAmount": 5,
+        "xpReward": 325,
+        "targetPool": []
+      }
+    ]
+  }
+}

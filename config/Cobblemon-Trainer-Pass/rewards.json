@@ -1,0 +1,1690 @@
+{
+  "pokemonRewardCommandTemplate": "spawnpokemon {species} level\u003d{level}",
+  "tiers": {
+    "1": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 8
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "2": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 8
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "3": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 9
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "4": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 9
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "5": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:fire_stone",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:leftovers",
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 10
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "7": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 10
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "8": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 10
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "9": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 11
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "10": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 2
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 2
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "POKEMON",
+          "species": "eevee",
+          "level": 15,
+          "shiny": false
+        }
+      ]
+    },
+    "11": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 11
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "12": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 12
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "13": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 12
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "14": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 12
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "15": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:thunder_stone",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:choice_band",
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 13
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "17": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 13
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "18": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 14
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "19": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:poke_ball",
+          "count": 14
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 4
+        }
+      ]
+    },
+    "20": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 2
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 2
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "POKEMON",
+          "species": "riolu",
+          "level": 20,
+          "shiny": false
+        }
+      ]
+    },
+    "21": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 15
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "22": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 15
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "23": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 15
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "24": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 16
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "25": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:moon_stone",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:choice_scarf",
+          "count": 1
+        }
+      ]
+    },
+    "26": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 16
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "27": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 17
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "28": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 17
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "29": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 17
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "30": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 3
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 3
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "POKEMON",
+          "species": "ralts",
+          "level": 25,
+          "shiny": false
+        }
+      ]
+    },
+    "31": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 18
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "32": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 18
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "33": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 19
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "34": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 19
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "35": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:dawn_stone",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:eviolite",
+          "count": 1
+        }
+      ]
+    },
+    "36": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 20
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "37": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 20
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "38": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 20
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "39": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:great_ball",
+          "count": 21
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_m",
+          "count": 6
+        }
+      ]
+    },
+    "40": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 3
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 3
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "POKEMON",
+          "species": "bagon",
+          "level": 30,
+          "shiny": false
+        }
+      ]
+    },
+    "41": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ultra_ball",
+          "count": 21
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 8
+        }
+      ]
+    },
+    "42": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ultra_ball",
+          "count": 22
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 8
+        }
+      ]
+    },
+    "43": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ultra_ball",
+          "count": 22
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 8
+        }
+      ]
+    },
+    "44": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ultra_ball",
+          "count": 22
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 8
+        }
+      ]
+    },
+    "45": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:shiny_stone",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:assault_vest",
+          "count": 1
+        }
+      ]
+    },
+    "46": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ultra_ball",
+          "count": 23
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 8
+        }
+      ]
+    },
+    "47": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ultra_ball",
+          "count": 23
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 8
+        }
+      ]
+    },
+    "48": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ultra_ball",
+          "count": 24
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 8
+        }
+      ]
+    },
+    "49": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ultra_ball",
+          "count": 24
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 8
+        }
+      ]
+    },
+    "50": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 4
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 4
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "POKEMON",
+          "species": "beldum",
+          "level": 35,
+          "shiny": false
+        }
+      ]
+    },
+    "51": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:razor_fang",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:protector",
+          "count": 1
+        }
+      ]
+    },
+    "52": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ultra_ball",
+          "count": 25
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 8
+        }
+      ]
+    },
+    "53": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ultra_ball",
+          "count": 25
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 8
+        }
+      ]
+    },
+    "54": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 4
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 6
+        }
+      ]
+    },
+    "55": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:fire_stone",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:mirror_herb",
+          "count": 1
+        }
+      ]
+    },
+    "56": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ultra_ball",
+          "count": 26
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 8
+        }
+      ]
+    },
+    "57": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ultra_ball",
+          "count": 27
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 8
+        }
+      ]
+    },
+    "58": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:jolly_mint",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 12
+        }
+      ]
+    },
+    "59": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:deep_sea_scale",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:kings_rock",
+          "count": 1
+        }
+      ]
+    },
+    "60": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 4
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 4
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "POKEMON",
+          "species": "gible",
+          "level": 40,
+          "shiny": false
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ability_capsule",
+          "count": 1
+        }
+      ]
+    },
+    "61": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:quick_ball",
+          "count": 28
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 10
+        }
+      ]
+    },
+    "62": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:jolly_mint",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 15
+        }
+      ]
+    },
+    "63": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:metal_coat",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:magmarizer",
+          "count": 1
+        }
+      ]
+    },
+    "64": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:quick_ball",
+          "count": 29
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 10
+        }
+      ]
+    },
+    "65": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:thunder_stone",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:leftovers",
+          "count": 1
+        }
+      ]
+    },
+    "66": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:jolly_mint",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 15
+        }
+      ]
+    },
+    "67": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:dubious_disc",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:razor_claw",
+          "count": 1
+        }
+      ]
+    },
+    "68": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:quick_ball",
+          "count": 30
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 10
+        }
+      ]
+    },
+    "69": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:zinc",
+          "count": 6
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:scope_lens",
+          "count": 1
+        }
+      ]
+    },
+    "70": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:master_ball",
+          "count": 1
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 20
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "POKEMON",
+          "species": "deino",
+          "level": 45,
+          "shiny": false
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ability_capsule",
+          "count": 1
+        }
+      ]
+    },
+    "71": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:razor_fang",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:protector",
+          "count": 1
+        }
+      ]
+    },
+    "72": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 5
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 7
+        }
+      ]
+    },
+    "73": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:calcium",
+          "count": 6
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:life_orb",
+          "count": 1
+        }
+      ]
+    },
+    "74": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:jolly_mint",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 15
+        }
+      ]
+    },
+    "75": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:moon_stone",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:choice_band",
+          "count": 1
+        }
+      ]
+    },
+    "76": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:quick_ball",
+          "count": 33
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:exp_candy_l",
+          "count": 10
+        }
+      ]
+    },
+    "77": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:pp_up",
+          "count": 6
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:focus_sash",
+          "count": 1
+        }
+      ]
+    },
+    "78": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:jolly_mint",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 15
+        }
+      ]
+    },
+    "79": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:deep_sea_scale",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:kings_rock",
+          "count": 1
+        }
+      ]
+    },
+    "80": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:master_ball",
+          "count": 1
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 20
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "POKEMON",
+          "species": "larvitar",
+          "level": 50,
+          "shiny": true
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ability_patch",
+          "count": 1
+        }
+      ]
+    },
+    "81": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:zinc",
+          "count": 7
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:scope_lens",
+          "count": 1
+        }
+      ]
+    },
+    "82": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:jolly_mint",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 18
+        }
+      ]
+    },
+    "83": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:metal_coat",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:magmarizer",
+          "count": 1
+        }
+      ]
+    },
+    "84": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ability_capsule",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ability_capsule",
+          "count": 1
+        }
+      ]
+    },
+    "85": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:dawn_stone",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:choice_scarf",
+          "count": 1
+        }
+      ]
+    },
+    "86": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:jolly_mint",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 18
+        }
+      ]
+    },
+    "87": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:dubious_disc",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:razor_claw",
+          "count": 1
+        }
+      ]
+    },
+    "88": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ability_patch",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ability_patch",
+          "count": 2
+        }
+      ]
+    },
+    "89": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:pp_up",
+          "count": 7
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:focus_sash",
+          "count": 1
+        }
+      ]
+    },
+    "90": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:master_ball",
+          "count": 1
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 24
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "POKEMON",
+          "species": "eevee",
+          "level": 55,
+          "shiny": true
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ability_patch",
+          "count": 1
+        }
+      ]
+    },
+    "91": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:razor_fang",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:protector",
+          "count": 1
+        }
+      ]
+    },
+    "92": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ability_patch",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ability_patch",
+          "count": 2
+        }
+      ]
+    },
+    "93": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:zinc",
+          "count": 7
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:scope_lens",
+          "count": 1
+        }
+      ]
+    },
+    "94": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:jolly_mint",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 18
+        }
+      ]
+    },
+    "95": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:shiny_stone",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:eviolite",
+          "count": 1
+        }
+      ]
+    },
+    "96": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ability_patch",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ability_patch",
+          "count": 2
+        }
+      ]
+    },
+    "97": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:calcium",
+          "count": 7
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:life_orb",
+          "count": 1
+        }
+      ]
+    },
+    "98": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:jolly_mint",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:rare_candy",
+          "count": 18
+        }
+      ]
+    },
+    "99": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:deep_sea_scale",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:kings_rock",
+          "count": 1
+        }
+      ]
+    },
+    "100": {
+      "freeRewards": [
+        {
+          "type": "ITEM",
+          "id": "cobblemon:master_ball",
+          "count": 1
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:ability_patch",
+          "count": 1
+        }
+      ],
+      "premiumRewards": [
+        {
+          "type": "POKEMON",
+          "species": "mew",
+          "level": 70,
+          "shiny": true
+        },
+        {
+          "type": "ITEM",
+          "id": "cobblemon:master_ball",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

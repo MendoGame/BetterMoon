@@ -1,0 +1,17 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"cobblemon:potion"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:miracle_seed"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:dawn_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:dusk_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon-progress-items:fen_badge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon-progress-items:dark_badge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon-progress-items:water_badge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon-progress-items:fire_badge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon-progress-items:fighting_badge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon-cards:card","components":{"cobblemon-cards:card_data":{"stat_value":-0.8456762,"grade":10,"pokemon_id":"froakie","is_shiny":false,"rarity":"rare","stat":"electric_spawn"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon-cards:grading_station_bypass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon-cards:booster_pack_gen2"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pokeblocks:pokedoll_bulbasaur_posed"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:beast_ball"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

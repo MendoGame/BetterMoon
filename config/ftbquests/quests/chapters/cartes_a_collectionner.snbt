@@ -1,0 +1,365 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cartes_a_collectionner"
+	group: "387438279F27C41E"
+	icon: {
+		components: {
+			"cobblemon-cards:card_data": {
+				grade: 4
+				is_shiny: 1b
+				pokemon_id: "tinkatuff"
+				rarity: "rare"
+				stat: "grass_spawn"
+				stat_value: -0.47305465f
+			}
+		}
+		id: "cobblemon-cards:card"
+	}
+	id: "15799ECB41911E15"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "497B199351B7A1F7"
+			rewards: [{
+				count: 5
+				id: "12ED271F0F2AEFF8"
+				item: {
+					count: 1
+					id: "numismatic-overhaul:gold_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "cobblemon-cards:complete_gen1"
+				criterion: ""
+				id: "17EDB37973A6F75A"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			id: "4CD96ABA6B5906B9"
+			rewards: [{
+				count: 5
+				id: "7CCCFC15BAEC7622"
+				item: {
+					count: 1
+					id: "numismatic-overhaul:gold_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "cobblemon-cards:complete_gen2"
+				criterion: ""
+				id: "314B1CBB9AABDFD4"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "39F24A65379037F5"
+			rewards: [{
+				count: 5
+				id: "4BA9EB335412CC2B"
+				item: {
+					count: 1
+					id: "numismatic-overhaul:gold_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "cobblemon-cards:complete_gen3"
+				criterion: ""
+				id: "09D8279F31E91DAC"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "6F3DB5A9BFD82123"
+			rewards: [{
+				count: 5
+				id: "1EDED9213ED35DE3"
+				item: {
+					count: 1
+					id: "numismatic-overhaul:gold_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "cobblemon-cards:complete_gen4"
+				criterion: ""
+				id: "56CD8AA355C91D7E"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "6D4568CE89FF6A1F"
+			rewards: [{
+				count: 5
+				id: "0134D105631E9CF8"
+				item: {
+					count: 1
+					id: "numismatic-overhaul:gold_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "cobblemon-cards:complete_gen5"
+				criterion: ""
+				id: "6CBFB25572D339F6"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "3F3B98C72D461C9A"
+			rewards: [{
+				count: 5
+				id: "2FC1596F7B112C8A"
+				item: {
+					count: 1
+					id: "numismatic-overhaul:gold_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "cobblemon-cards:complete_gen6"
+				criterion: ""
+				id: "29FAD1ED33C7A103"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "1900376E2D5A675C"
+			rewards: [{
+				count: 5
+				id: "6F25709ED95F1EBB"
+				item: {
+					count: 1
+					id: "numismatic-overhaul:gold_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "cobblemon-cards:complete_gen7"
+				criterion: ""
+				id: "0792B955992688FC"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			id: "1F6B26C3A9F10E5F"
+			rewards: [{
+				count: 5
+				id: "31FEAD6A67D47FD9"
+				item: {
+					count: 1
+					id: "numismatic-overhaul:gold_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "cobblemon-cards:complete_gen8"
+				criterion: ""
+				id: "5D307BB6FFF7A982"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			id: "7C64CAB5B29ED38C"
+			rewards: [{
+				count: 5
+				id: "3E6E3E531188A5F8"
+				item: {
+					count: 1
+					id: "numismatic-overhaul:gold_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "cobblemon-cards:complete_gen9"
+				criterion: ""
+				id: "25410973087BE1FA"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			id: "626BCF2DF0330AA4"
+			rewards: [{
+				id: "03F82D4C2A442DDD"
+				item: {
+					count: 1
+					id: "numismatic-overhaul:gold_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "cobblemon-cards:master_evaluator"
+				criterion: ""
+				id: "68AA508DF813DF1B"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			id: "6434653D64917221"
+			rewards: [{
+				id: "1E5C52A8F57E11BC"
+				item: {
+					count: 1
+					id: "numismatic-overhaul:gold_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "cobblemon-cards:booster_addict"
+				criterion: ""
+				id: "7C298473A430A87D"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			id: "0642D426B871421D"
+			rewards: [{
+				id: "473232E3DBCE923E"
+				item: {
+					count: 1
+					id: "numismatic-overhaul:gold_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "cobblemon-cards:first_shiny"
+				criterion: ""
+				id: "3816D920ABE9F473"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			id: "6059DB687A42DDEC"
+			rewards: [{
+				id: "1995025F48F6F2C4"
+				item: {
+					count: 1
+					id: "numismatic-overhaul:gold_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "cobblemon-cards:complete_megas"
+				criterion: ""
+				id: "4AD0E96A7842AB09"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["28C19269B4B97BA4"]
+			icon: {
+				id: "cobblemon-cards:card_structure_disk"
+			}
+			id: "234B05F4C1D5937D"
+			rewards: [{
+				id: "750C77F200730E81"
+				item: {
+					count: 1
+					id: "numismatic-overhaul:gold_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					consume_items: false
+					id: "54369CE09EC02F2B"
+					item: { count: 1, id: "cobblemon-cards:card_recycler" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "0BAF31FAF1A5D77D"
+					item: { count: 1, id: "cobblemon-cards:card_structure_disk" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "3A189447EB0CD4D7"
+					item: { count: 1, id: "cobblemon-cards:instant_dex" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "34C08E105F274892"
+					item: { count: 1, id: "cobblemon:monitor" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "7331F84230B61E1A"
+					item: { count: 1, id: "cobblemon-cards:grading_station" }
+					type: "item"
+				}
+				{
+					id: "3A9C6B73574C0B40"
+					item: { count: 1, id: "cobblemon-cards:card_dex" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "jei:textures/jei/atlas/gui/icons/info.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "28C19269B4B97BA4"
+			shape: "none"
+			tasks: [{
+				id: "38ECCC035E64B9E3"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+	]
+}

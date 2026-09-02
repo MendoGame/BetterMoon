@@ -1,0 +1,64 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "qutes_quotidiennes"
+	group: ""
+	icon: {
+		id: "cobblemon:pokedex_blue"
+	}
+	id: "5D1E9F775691597F"
+	images: [{
+		click_action: "none:"
+		height: 4.0d
+		id: "5F676E4D19FA2878"
+		image: "image:textures/spritequotidienne.png"
+		rotation: 0.0d
+		width: 7.0d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "37BCFA058EEBD096"
+			tasks: [{
+				id: "375B96E65ED9B96A"
+				item: { count: 1, id: "cobblemon-cards:booster_pack" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "2B6D8B922FE2E0ED"
+			tasks: [{
+				id: "4102E8DD37C68C4C"
+				item: { count: 1, id: "cobblemon:poke_ball" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			id: "424E4A560838B254"
+			tasks: [{
+				id: "785163558640B5B6"
+				item: { count: 1, id: "cobblemon:azure_ball" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			id: "693235501D76241D"
+			tasks: [{
+				id: "1EA6E33FB9365F18"
+				item: { count: 1, id: "cobblemon:campfire_pot_white" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+	]
+}

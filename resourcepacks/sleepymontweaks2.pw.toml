@@ -1,0 +1,8 @@
+name = "SleepyMonTweaks2"
+filename = "sleepymontweaks2.zip"
+side = "both"
+
+[download]
+url = "https://github.com/MendoGame/BetterMoon/releases/download/v1.0.0/sleepymontweaks2.zip"
+hash-format = "sha256"
+hash = "e4cef643d4b57355a3a8bc305ebfb90a658a34a6f56ad45f2b3bb518139f2fbb"

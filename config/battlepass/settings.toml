@@ -1,0 +1,24 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+premiumEnabled = true
+premiumUnlockCurrency = "ITEM"
+premiumUnlockItemOrTag = "minecraft:diamond"
+premiumUnlockItemCost = 32
+premiumUnlockCobbleDollarsCost = 0
+bpxpBoostBossBarEnabled = true
+xpPerTier = 150
+tierCount = 100
+specializedQuestRotationMinutes = 20
+perPlayerBounties = false
+perPlayerQuests = false
+bountySpawnNotificationsGlobalWhenShared = true
+captureXp = 10
+evolutionXp = 50
+defeatXp = 8
+randomBoostEventsEnabled = false
+randomBoostMinIntervalMinutes = 60
+randomBoostMaxIntervalMinutes = 180
+randomBoostMinMultiplier = 1.5
+randomBoostMaxMultiplier = 3.0
+randomBoostMinDurationMinutes = 10
+randomBoostMaxDurationMinutes = 30

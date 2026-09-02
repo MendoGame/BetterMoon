@@ -1,0 +1,115 @@
+/* CONFIG_SECTION
+ * Version: 2.1.7
+ * Last updated: 2026-09-02T10:14:09.815305200
+ */
+{
+  "version": "2.1.7",
+  "configId": "cobblespawners",
+  "spawnerPos": {
+    "x": -1461,
+    "y": 116,
+    "z": 132
+  },
+  "spawnerName": "Spawner_Village_Tuto01",
+  "selectedPokemon": [
+    {
+      "pokemonName": "caterpie",
+      "formName": "Normal",
+      "aspects": [],
+      "spawnChance": 50.0,
+      "spawnChanceType": "COMPETITIVE",
+      "minLevel": 1,
+      "maxLevel": 5,
+      "sizeSettings": {
+        "allowCustomSize": false,
+        "minSize": 1.0,
+        "maxSize": 1.0
+      },
+      "captureSettings": {
+        "isCatchable": false,
+        "restrictCaptureToLimitedBalls": false,
+        "requiredPokeBalls": [
+          "poke_ball"
+        ]
+      },
+      "ivSettings": {
+        "allowCustomIvs": false,
+        "minIVHp": 0,
+        "maxIVHp": 10,
+        "minIVAttack": 0,
+        "maxIVAttack": 10,
+        "minIVDefense": 0,
+        "maxIVDefense": 10,
+        "minIVSpecialAttack": 0,
+        "maxIVSpecialAttack": 10,
+        "minIVSpecialDefense": 0,
+        "maxIVSpecialDefense": 10,
+        "minIVSpeed": 0,
+        "maxIVSpeed": 10
+      },
+      "evSettings": {
+        "allowCustomEvsOnDefeat": false,
+        "evHp": 0,
+        "evAttack": 0,
+        "evDefense": 0,
+        "evSpecialAttack": 0,
+        "evSpecialDefense": 0,
+        "evSpeed": 0
+      },
+      "spawnSettings": {
+        "spawnTime": "ALL",
+        "spawnWeather": "ALL",
+        "spawnLocation": "ALL"
+      },
+      "heldItemsOnSpawn": {
+        "allowHeldItemsOnSpawn": false,
+        "itemsWithChance": {
+          "minecraft:cobblestone": 0.1,
+          "cobblemon:pokeball": 100.0
+        }
+      },
+      "moves": {
+        "allowCustomInitialMoves": false,
+        "selectedMoves": [
+          {
+            "level": 1,
+            "moveId": "tackle",
+            "forced": false
+          },
+          {
+            "level": 1,
+            "moveId": "stringshot",
+            "forced": false
+          },
+          {
+            "level": 9,
+            "moveId": "bugbite",
+            "forced": false
+          }
+        ]
+      }
+    }
+  ],
+  "dimension": "minecraft:overworld",
+  "spawnTimerTicks": 30,
+  "spawnRadius": {
+    "width": 4,
+    "height": 4
+  },
+  "spawnLimit": 2,
+  "spawnAmountPerSpawn": 1,
+  "visible": true,
+  "lowLevelEntitySpawn": false,
+  "wanderingSettings": {
+    "enabled": true,
+    "wanderType": "RADIUS",
+    "wanderDistance": 6
+  },
+  "forceChunkLoading": true,
+  "chunkLoadRadius": 1,
+  "requirePlayerInRange": true,
+  "playerActivationRange": 30
+}
+/*
+ * END_CONFIG_SECTION
+ */
