@@ -2909,6 +2909,10 @@ file = "config/tectonic.json"
 hash = "fe51e529faafe17609b060f25d2cd87c0db5571c98e306a09f9335d4b54546fa"
 
 [[files]]
+file = "config/test.txt"
+hash = "eec5f73feda54ac3ff679083cb02cc8d33fa2a51aabea5e8e9678ba3a43deddc"
+
+[[files]]
 file = "config/tidal.json"
 hash = "ea1b75ee5323df0e5a737b57ec7a033b9cd327441acb684c9c09890b01b21f0a"
 
