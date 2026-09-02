@@ -1,0 +1,13 @@
+name = "BetterMoon"
+author = "Mendo85"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c9c4b41d25d4fc273d5fe5f72b27c4e50027a93ee9a777b242e4fad2fd0e9bcc"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.1"
