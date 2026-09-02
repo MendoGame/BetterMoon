@@ -1146,7 +1146,7 @@ hash = "fa56f32ee5b287650a1be97cde589a72688ed09e118571cd9afcd111580c3baa"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "59a8b6bf5e22eeabc92dd96b3a0acb9003af43f64a30d763ab3cd75a9bff96e6"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/cobblemon/bedrock/pokemon/resolvers/0006_charizard/0_charizard_base.json"
@@ -2198,10 +2198,6 @@ hash = "7f61b30f8e983ab495f4a09cdedfe3d950edbcdedcb090b8151b862098da4e71"
 file = "resourcepacks/sleepymontweaks2.pw.toml"
 hash = "bac7dbe2cae4d3414507298df7f4a6cfee9b254dd50a80b34e788c3818546ca6"
 metafile = true
-
-[[files]]
-file = "resourcepacks/sleepymontweaks2.zip"
-hash = "e4cef643d4b57355a3a8bc305ebfb90a658a34a6f56ad45f2b3bb518139f2fbb"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
