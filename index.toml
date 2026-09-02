@@ -1146,7 +1146,7 @@ hash = "fa56f32ee5b287650a1be97cde589a72688ed09e118571cd9afcd111580c3baa"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "6b413786954e9f08f93fbf6419a8204351c69752441fbc501a524c89eab83dcd"
+hash = "59a8b6bf5e22eeabc92dd96b3a0acb9003af43f64a30d763ab3cd75a9bff96e6"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/cobblemon/bedrock/pokemon/resolvers/0006_charizard/0_charizard_base.json"
