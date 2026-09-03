@@ -534,11 +534,11 @@ hash = "df3a4b7a6c8947076966f76a5c7963f5c22121381db1f6faf5495efb1a571774"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "8eaade62cde88587cf9bbefe0510c3b0e6cee4869836ec0323d9b3a6fe272d2c"
+hash = "8565f08fd8d66c3b8079f4c67af70e2404b503bdb2fd3752f08c5c842c7cb8b6"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "f4376005d963ff52e6a4e937e4413e539b4e08ef21c9f060df3696a236bcc14e"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -550,7 +550,7 @@ hash = "5fecbadcf309562b1973784b6a516f6127c132f9887025b60ec9811f052845e9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "7df8e9e7c69debd4484af8d544413a70414ef380292dd1b7e2c065c2a90f6a04"
+hash = "866d2470ccc61eab8fc6ee26ae14a53eb212af4a5afed3ac28a36ad462cfa778"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
