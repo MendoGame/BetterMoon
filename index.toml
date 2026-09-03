@@ -1769,6 +1769,10 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "665b4f2ed9c83a40e2ef3789fc68aa6c413cfdc51eadd65bb49464162b2d9c32"
 
 [[files]]
+file = "mods/BM_Economy-1.1.0.jar"
+hash = "5ad3917db832053eb3be55739afcfaf0661b3a1943d607f1d9cc21da6e44ba25"
+
+[[files]]
 file = "mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
 hash = "49e406cb2872e24a2d2dbe461b93f0c8fbee1748d14c2a941e54f785e3a1e1a7"
 
@@ -1879,10 +1883,6 @@ hash = "65525b5f280654bd577261c78843534d22bd0441995fbcdc0294fbb415029ae2"
 [[files]]
 file = "mods/cobblemon-cards-fabric-1.0.4.jar"
 hash = "e4adfeec94d2471c5a7da005822c40084aefe7c9814d0f897791c2521b470e68"
-
-[[files]]
-file = "mods/cobblemon-economy-0.0.17.jar"
-hash = "ee163479a15a8a8549b876f35e54bc0287a542f014a23384d023a47a86b80a08"
 
 [[files]]
 file = "mods/cobblemon-leaderboards-fabric-2.2.jar"
