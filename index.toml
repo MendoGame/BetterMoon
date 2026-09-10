@@ -1,28 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Cobblemon-Trainer-Pass/quests.json"
-hash = "10bec4a6ddb3e7a9738c3baf2efe23a31d0fbd5bb185b7c653d72e488ac9ce1f"
-
-[[files]]
-file = "config/Cobblemon-Trainer-Pass/rewards.json"
-hash = "9be574cd74e12627af1c39548bd1aa027c91bcd0766c906922c8f1f4f6b0a02b"
-
-[[files]]
-file = "config/Cobblemon-Trainer-Pass/settings.json"
-hash = "bacd1bb4ab15f220c285bddfa1cee73f0985d946e628c665fe474ef1eed23470"
-
-[[files]]
 file = "config/ReactiveMusic.json5"
 hash = "d779674ee8f970b703135e27b644e13ec6bc9c5ba7cc9f5aa8777bca79111c80"
 
 [[files]]
 file = "config/accessories.json5"
 hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
-
-[[files]]
-file = "config/battlepass/settings.toml"
-hash = "f8b8778f37fc829551245b9efbc4ec013585a2f998cfea0f97d08e4750979b92"
 
 [[files]]
 file = "config/cardinal-components-api.properties"
@@ -550,7 +534,7 @@ hash = "5fecbadcf309562b1973784b6a516f6127c132f9887025b60ec9811f052845e9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "866d2470ccc61eab8fc6ee26ae14a53eb212af4a5afed3ac28a36ad462cfa778"
+hash = "7df8e9e7c69debd4484af8d544413a70414ef380292dd1b7e2c065c2a90f6a04"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -1581,94 +1565,6 @@ file = "config/windy-config.json"
 hash = "b0a9620eb61c344a858051eee8e0a89830dda32d52444a924da009c2b2ca5faa"
 
 [[files]]
-file = "config/worldedit/schematics/Cathe.schem"
-hash = "440edd3c7250c4f9f9ed2b716414b33bbc2d0fd019cc47bbbd850c87b25a86ab"
-
-[[files]]
-file = "config/worldedit/schematics/EfTower.schem"
-hash = "fecc22cb89468f3191113d3cbfa846bc40d47191511d6a602835700e7e2d7521"
-
-[[files]]
-file = "config/worldedit/schematics/MagicHouse.schematic"
-hash = "99a1e2c08c1e0c1f7c1c625297983ce684b48e868874513107f8b2bc6bb2cd35"
-
-[[files]]
-file = "config/worldedit/schematics/NCafe.schematic"
-hash = "f0145dadaa384567f15eb934d48eb263e6275c632e50a022c10c1b23be07d5f1"
-
-[[files]]
-file = "config/worldedit/schematics/RookNP60.schem"
-hash = "d096b7538ecbc300e4457cfb9a138a7a82d793ec70204d90f5ef1148323d6dc3"
-
-[[files]]
-file = "config/worldedit/schematics/Shopv1.schem"
-hash = "768db80732dc32873079d17054b53b29da4fe929b2135af26849e19437261b1f"
-
-[[files]]
-file = "config/worldedit/schematics/TowerFire.schem"
-hash = "6952f5411099e3fa0c0a45111d31d12f708524abfe1177fe3ff3c4343a8ba21d"
-
-[[files]]
-file = "config/worldedit/schematics/arena-krtq.schem"
-hash = "6fc2e0e8d17f9be710665c2a155375055c43b7b84c0f1e8a439bfa18a351864d"
-
-[[files]]
-file = "config/worldedit/schematics/aseriaminecrafttownassetsmultipack.schem"
-hash = "6d6152303da9d594513fc49709295ccc28e058848e8ceb540bfba2d62120a91e"
-
-[[files]]
-file = "config/worldedit/schematics/balloons.schem"
-hash = "0834cf2247873dfd7299b7b227eb0bc37e2d2ee8843cd4d7273094a70d17a755"
-
-[[files]]
-file = "config/worldedit/schematics/fantasy-greenhouse.schem"
-hash = "c34e1506fd244f7fc1a774ed4ebae98da554dd93b881a8ede8f93cb97283684a"
-
-[[files]]
-file = "config/worldedit/schematics/lobby-tower.schematic"
-hash = "8385df79581476d3df4847d8e9d4cad732387e792e3a64f89e6023f03e33fe5f"
-
-[[files]]
-file = "config/worldedit/schematics/mansion.schematic"
-hash = "0c6ec962d123f02e96ad5b479a69505be7ffa3774deeb9d5dbd37f747241b0ea"
-
-[[files]]
-file = "config/worldedit/schematics/medievalassetsupdated.schem"
-hash = "8701cc85a7fc3501de293a77cbc81d09c74cd1b67631ad32b2fa173ca5dc3e40"
-
-[[files]]
-file = "config/worldedit/schematics/medievalhouses.schem"
-hash = "0deaa1c2b7d1c2de9529f1683804527f9e848e87731ffd99f5bd62f1617ee83d"
-
-[[files]]
-file = "config/worldedit/schematics/piscine.schem"
-hash = "d66228d59c10df997e68bb3ef19d0eb8012e7f792b68814ea2a931ede38273e0"
-
-[[files]]
-file = "config/worldedit/schematics/psyhaut.schem"
-hash = "5bbde0ed23724b4a730e14089a8e009aeeb5060c883427d8351d63b1d5e86d4f"
-
-[[files]]
-file = "config/worldedit/schematics/psyile.schem"
-hash = "09a069a43eb4765bdc7e5d7225e4c428467247c2cd975d4e8647ec3bd19067cc"
-
-[[files]]
-file = "config/worldedit/schematics/steampunkcargoship.schem"
-hash = "53c40705c71f9770d0d88760a80e9aa8c5a7e457f76c668540e63c696ee9ddbb"
-
-[[files]]
-file = "config/worldedit/schematics/the-dome.schem"
-hash = "92470555bd831330a5c9a0a686ba1ec2eed8e05fd63fa3a9897f5f76605653a4"
-
-[[files]]
-file = "config/worldedit/schematics/the-sculk-kingdom.schem"
-hash = "9946df470ce9a815abd3bd544108cd16c036210b99b52c7001318ac5fcd8c9d7"
-
-[[files]]
-file = "config/worldedit/schematics/witchisland.schem"
-hash = "483f9ea220b63e114cfeef427f26b14f9b02a5d486306079ba128d10171a632d"
-
-[[files]]
 file = "config/worldedit/worldedit.properties"
 hash = "054a2b11fa264f585d49d4db9860c80915cac75186619757cec308bd36cb4edb"
 
@@ -1679,6 +1575,10 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 [[files]]
 file = "config/ysns.json"
 hash = "605b131ad2f3db5cc295688975cd32a57eac138db4c314b79b0189b81d4c346f"
+
+[[files]]
+file = "config/zone-item-commands.json"
+hash = "d2d061389f8bd8997379b06325cfbe72d8fa83497ac9f6fa33a949d3943b3b95"
 
 [[files]]
 file = "fancymenu_data/action_favorites.json"
@@ -1769,8 +1669,8 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "665b4f2ed9c83a40e2ef3789fc68aa6c413cfdc51eadd65bb49464162b2d9c32"
 
 [[files]]
-file = "mods/BM_Economy-1.1.0.jar"
-hash = "5ad3917db832053eb3be55739afcfaf0661b3a1943d607f1d9cc21da6e44ba25"
+file = "mods/BM_Economy-1.2.0.jar"
+hash = "4708e13e7520b77b68d1cf584b06085ec8c783b1d5ace80711c289b371ddcf7f"
 
 [[files]]
 file = "mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
@@ -1783,10 +1683,6 @@ hash = "a007523e2dd8c6f47edc914d33d26ad0a860a0124038e1ec6303a593a919c1b4"
 [[files]]
 file = "mods/CobbleFurnies-fabric-1.2.jar"
 hash = "c1230a58ca2369b973bfade68a0ffcac86ffcbf9dd2a845999ed8c5348bfef93"
-
-[[files]]
-file = "mods/Cobblemon-Trainer-Pass-1.3.5.jar"
-hash = "d3fda8b17687226c12669b7febfed58ca48e23c5ee37a48b55fbdc0c390d9983"
 
 [[files]]
 file = "mods/Cobblemon-fabric-1.7.3+1.21.1.jar"
@@ -2157,6 +2053,10 @@ hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
 hash = "6ab420b7d1326fc9851b96a8967504bd644da421ed6438ceb9a9d9c993a408b1"
+
+[[files]]
+file = "mods/zone-item-commands-0.2.5.jar"
+hash = "81c832ba4f3b57fcd9b783af9517622aa39eb6df8de18cd8401570dfde3686ca"
 
 [[files]]
 file = "resourcepacks/CCC_2.1.zip"

@@ -1,0 +1,155 @@
+{
+  "cooldownTicks": 5,
+  "entries": [
+    {
+      "item": "bm_economy:ame_raikou",
+      "dimension": "bettermoon:neolys",
+      "consume": 1,
+      "command": "spawnpokemonat -347 46 346 raikou",
+      "successMessage": "L'âme de Raikou réagit...",
+      "zone": {
+        "minX": -351,
+        "minY": 40,
+        "minZ": 342,
+        "maxX": -344,
+        "maxY": 55,
+        "maxZ": 349
+      }
+    },
+    {
+      "item": "bm_economy:ame_entei",
+      "dimension": "bettermoon:neolys",
+      "consume": 1,
+      "command": "spawnpokemonat -347 46 346 entei",
+      "successMessage": "L'âme d'Entei réagit...",
+      "zone": {
+        "minX": -351,
+        "minY": 40,
+        "minZ": 342,
+        "maxX": -344,
+        "maxY": 55,
+        "maxZ": 349
+      }
+    },
+    {
+      "item": "bm_economy:ame_suicune",
+      "dimension": "bettermoon:neolys",
+      "consume": 1,
+      "command": "spawnpokemonat -347 46 346 suicune",
+      "successMessage": "L'âme de Suicune réagit...",
+      "zone": {
+        "minX": -351,
+        "minY": 40,
+        "minZ": 342,
+        "maxX": -344,
+        "maxY": 55,
+        "maxZ": 349
+      }
+    },
+    {
+      "item": "bm_economy:ame_artikodin",
+      "dimension": "bettermoon:neolys",
+      "consume": 1,
+      "command": "spawnpokemonat -347 46 346 articuno",
+      "successMessage": "L'âme d'Artikodin réagit...",
+      "zone": {
+        "minX": -351,
+        "minY": 40,
+        "minZ": 342,
+        "maxX": -344,
+        "maxY": 55,
+        "maxZ": 349
+      }
+    },
+    {
+      "item": "bm_economy:ame_electhor",
+      "dimension": "bettermoon:neolys",
+      "consume": 1,
+      "command": "spawnpokemonat -347 46 346 zapdos",
+      "successMessage": "L'âme d'Électhor réagit...",
+      "zone": {
+        "minX": -351,
+        "minY": 40,
+        "minZ": 342,
+        "maxX": -344,
+        "maxY": 55,
+        "maxZ": 349
+      }
+    },
+    {
+      "item": "bm_economy:ame_sulfura",
+      "dimension": "bettermoon:neolys",
+      "consume": 1,
+      "command": "spawnpokemonat -347 46 346 moltres",
+      "successMessage": "L'âme de Sulfura réagit...",
+      "zone": {
+        "minX": -351,
+        "minY": 40,
+        "minZ": 342,
+        "maxX": -344,
+        "maxY": 55,
+        "maxZ": 349
+      }
+    },
+    {
+      "item": "bm_economy:ame_mewtwo",
+      "dimension": "bettermoon:neolys",
+      "consume": 1,
+      "command": "spawnpokemonat -347 46 346 mewtwo",
+      "successMessage": "L'âme de Mewtwo réagit...",
+      "zone": {
+        "minX": -351,
+        "minY": 40,
+        "minZ": 342,
+        "maxX": -344,
+        "maxY": 55,
+        "maxZ": 349
+      }
+    },
+    {
+      "item": "bm_economy:ame_mew",
+      "dimension": "bettermoon:neolys",
+      "consume": 1,
+      "command": "spawnpokemonat -347 46 346 mew",
+      "successMessage": "L'âme de Mew réagit...",
+      "zone": {
+        "minX": -351,
+        "minY": 40,
+        "minZ": 342,
+        "maxX": -344,
+        "maxY": 55,
+        "maxZ": 349
+      }
+    },
+    {
+      "item": "bm_economy:ame_lugia",
+      "dimension": "bettermoon:neolys",
+      "consume": 1,
+      "command": "spawnpokemonat -347 46 346 lugia",
+      "successMessage": "L'âme de Lugia réagit...",
+      "zone": {
+        "minX": -351,
+        "minY": 40,
+        "minZ": 342,
+        "maxX": -344,
+        "maxY": 55,
+        "maxZ": 349
+      }
+    },
+    {
+      "item": "bm_economy:ame_ho_oh",
+      "dimension": "bettermoon:neolys",
+      "consume": 1,
+      "command": "spawnpokemonat -347 46 346 ho-oh",
+      "successMessage": "L'âme de Ho-Oh réagit...",
+      "zone": {
+        "minX": -351,
+        "minY": 40,
+        "minZ": 342,
+        "maxX": -344,
+        "maxY": 55,
+        "maxZ": 349
+      }
+    }
+  ]
+}
