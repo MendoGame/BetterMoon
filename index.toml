@@ -1225,6 +1225,10 @@ file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures
 hash = "238bec4fd7258adb179f68c4d7e268ebcee76fa8d6f04aa0ac355aedc315fc5f"
 
 [[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/entei.png"
+hash = "002aa5844ebe90d85784c52b70f022a469e2685ea414e3ec719a2463005f4fe5"
+
+[[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/fee.png"
 hash = "61f184635792275f9a5b86a332083cfc7b04b8750ae8a5c67920318d77067530"
 
@@ -1237,12 +1241,20 @@ file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures
 hash = "00706f68cad7751fc0bf632caad15bd2965a512af1bfdf81196f3f551987868e"
 
 [[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/hooh.png"
+hash = "330fb480fe7a81400044e430bb6e95915c622d6f9a6c3b10264e23464eb7cf1f"
+
+[[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/insecte.png"
 hash = "d44e1644bf6d7c50ed8406237774d1ecbffbb00d43bba02eef3fe487120f2045"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/logo.png"
 hash = "95b54f07f927641e1250c19902cb72cdb4730615365657e922fc452f6d662e19"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/lugia.png"
+hash = "0ac2415dcc18fe42c5539cb8dc22799a62a1db317015e45a87c41b9596b1ee8b"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/normal.png"
@@ -1263,6 +1275,10 @@ hash = "e0d86d7f4df23f764f046d18d21473559cc7224dfa2347d77a6647e41913d8e7"
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/psy.png"
 hash = "39cfad9ee752fce3c2a043d588aa7279080f34bdb22127ad20733dc8e7b88e24"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/raikou.png"
+hash = "6bc145f8385c47bac532064ee90033e9f256357bcd5b4993bfcb655b6e59dde8"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/roche.png"
@@ -1305,8 +1321,16 @@ file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures
 hash = "164665b5d6e86bc990a9c90c487fe50dd8ae95a8084d5f3f90a042fd3cfae4d3"
 
 [[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/suicune.png"
+hash = "3ee60d5c77ee5a02876a63ae1c2f49d556f9682dd538a8d084808624c4c62243"
+
+[[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/tenebre.png"
 hash = "d78a70e07f16e732b8605a8f8153051a73e07a4d57320088c18e8d0687386e7e"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/tuto.png"
+hash = "710ea9594220c06a338a209a923f2b133a1b4e11dc99df811a46c7d1272b135a"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/vol.png"
@@ -1892,6 +1916,10 @@ hash = "6e054b30d52215d44b91c19b7947d7e40525ac58fa6e8934ba15bd51e7e81b1e"
 [[files]]
 file = "mods/ferritecore-7.0.3-fabric.jar"
 hash = "98c3ab1d5aab8f14b5d082d3f1a467727fd335f02d124555c94339761c4c18f2"
+
+[[files]]
+file = "mods/ftb-chunks-fabric-2101.1.22.jar"
+hash = "6b783610069b64f7b28aa0675a707b3cf171364b6647e0c7b406cf6ca7674215"
 
 [[files]]
 file = "mods/ftb-library-fabric-2101.1.35.jar"
