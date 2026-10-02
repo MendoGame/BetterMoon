@@ -454,7 +454,7 @@ hash = "0a3cdddb3294ca662ac4f3f740233d208c0b21c4efe63b9bcdfb4fe512ba3f43"
 
 [[files]]
 file = "config/fancymenu/assets/loadingscreen.png"
-hash = "75001388f21c2287985a337d46e0590801fc246cf9bd0b24adbd36193b54bd1c"
+hash = "2c1085c554867a7ec3dd394d410689f016b8309a812c1e55016cb4f509fc94bb"
 
 [[files]]
 file = "config/fancymenu/assets/majpicun.png"
@@ -463,10 +463,6 @@ hash = "f987f7838ce94749db818a06d78ae0ecebc55e96bc819b932f71a97f4eb6b18d"
 [[files]]
 file = "config/fancymenu/assets/menubackground.png"
 hash = "a1715dc2a86a896e1530ee6a795768053cdab89db64729d893c6ec4200836739"
-
-[[files]]
-file = "config/fancymenu/assets/menusound.ogg"
-hash = "d023b3dfa87ffc58216068c046353f5da7ff7231939876093dcaeeb567f1e82c"
 
 [[files]]
 file = "config/fancymenu/assets/pikarun.gif"
@@ -489,12 +485,16 @@ file = "config/fancymenu/customization/connect_screen_layout.txt"
 hash = "c83a62942d6821acaa2b8274b4187ee70f391e5cc57aaf82e55b13e173f76142"
 
 [[files]]
+file = "config/fancymenu/customization/container_screen_layout.txt"
+hash = "65828180ec3d9d23bad99350409389237091313349c7a8a71e72d496cfed97b2"
+
+[[files]]
 file = "config/fancymenu/customization/disconnected_screen_layout.txt"
 hash = "f48ee0718576214d7deba88b58cae7147532df23291f20a6b17220455ef2dcb9"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "c20cb65a05016ed8b8413f7b9cdb45842d8ab7943db53df0e53cb6d8c5d5f0d5"
+hash = "c910a2ea594738a9064381d1df184a0fd905c72ba1c45d5d7cbb788cce3091a8"
 
 [[files]]
 file = "config/fancymenu/customization/generic_dirt_message_screen_layout.txt"
@@ -506,7 +506,7 @@ hash = "af392d60a5b0c9dd050d2b219eac5931f50faf09353e3d1d233c2d87f4211217"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "4c3abac1614926ad0e8a98414e926742409e7ca66536b953adc086f1734b2327"
+hash = "44730a030e186e57f4a4846dba870fa608150c8db6ac39c59fe67fa4200c2db3"
 
 [[files]]
 file = "config/fancymenu/customization/progress_screen_layout.txt"
@@ -518,7 +518,7 @@ hash = "df3a4b7a6c8947076966f76a5c7963f5c22121381db1f6faf5495efb1a571774"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "8565f08fd8d66c3b8079f4c67af70e2404b503bdb2fd3752f08c5c842c7cb8b6"
+hash = "24190837fe56cf633c9cd03fb8463478549c735dd16378a224e8fae68da64bdb"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -534,7 +534,7 @@ hash = "5fecbadcf309562b1973784b6a516f6127c132f9887025b60ec9811f052845e9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "7df8e9e7c69debd4484af8d544413a70414ef380292dd1b7e2c065c2a90f6a04"
+hash = "866d2470ccc61eab8fc6ee26ae14a53eb212af4a5afed3ac28a36ad462cfa778"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -698,7 +698,7 @@ hash = "01476cbcba114011df19b5663cf228251d1889aa83cac0b2e9317d5e3c3ae2e7"
 
 [[files]]
 file = "config/jei/blacklist.json"
-hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+hash = "1c32a84483e63e41df95c81be744c528f0f52fb5f18db88efd9f894978cded6a"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
@@ -1693,6 +1693,46 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "665b4f2ed9c83a40e2ef3789fc68aa6c413cfdc51eadd65bb49464162b2d9c32"
 
 [[files]]
+file = "journeymap/config/6.0/addons/addon.cobblemon.config"
+hash = "868eee114bf1a3843cf6f5a788362d09b62a5e284ce5b69e1bf56c77cf12d5d8"
+
+[[files]]
+file = "journeymap/config/6.0/addons/addon.fwaystones.config"
+hash = "129a0c7204b9bf1828e23584e31e5a33adb4dd47b0ec6d577c96e91c92fac1e6"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.core.config"
+hash = "1c857a4a826a4a8412672ba8c904ad85a20023e9d435c3a04175d0313bcc4eee"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.fullmap.config"
+hash = "3d8ef7ff81e2bcee6cc624d7310b145d80f436ab78a96559bdf7c896361547d8"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap.config"
+hash = "9c2083de23e7afa34d0d9c0a6166c19cc0d5b753d1a24755c46626f4b0eae2af"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap2.config"
+hash = "6b9b583e43ab2662d540e4c650adc0460e2c45d3a4a6a797d5d0c2fc6c6d97a8"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.rendering.config"
+hash = "5f5ff51a862108ee58f1f373e73d3424dd7544e62e259478044dd46acd6ea2ca"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.topo.config"
+hash = "c99b9f45965eae470599a070dd5484fbb3f876aa383d13d39ac5e3bc93432d8a"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.waypoint.config"
+hash = "1091fd6e52cda0afaaa48811a481b68066ad67d3eca654f10e5be2a1635e335b"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.webmap.config"
+hash = "125c456534de94f3377010eec0ee67a2ff718ca9f602ff8c6cf1e303627e75de"
+
+[[files]]
 file = "mods/BM_Economy-1.3.3.jar"
 hash = "77c74b851090d2b747da7cd86f31f7e5cd57ccb93c69db280b8cfa90daf1d67c"
 
@@ -1709,8 +1749,16 @@ file = "mods/CobbleFurnies-fabric-1.2.jar"
 hash = "c1230a58ca2369b973bfade68a0ffcac86ffcbf9dd2a845999ed8c5348bfef93"
 
 [[files]]
-file = "mods/Cobblemon-fabric-1.7.3+1.21.1.jar"
-hash = "f7c25955176badc444ad6211fc556514fedbdba776227f105fe899f8819d74e3"
+file = "mods/Cobblemon-Trainer-Pass-1.3.5.jar"
+hash = "27a355055c49f2e44e9cb2a9a2c02bd8f461ad7e2957e5917b0037f649d7a9c0"
+
+[[files]]
+file = "mods/CobblemonCustomizables-0.0.0-1.8.0.jar"
+hash = "cc2c51519fa2b2409238b53aae45d02035290145e768fa436bd73ab8f1a46582"
+
+[[files]]
+file = "mods/CobblemonTrialsEdition-fabric-2.2.0.jar"
+hash = "4aa6fc2e689134d308d370e1d14b434acb7fd87049aac1323d8e1f2342e6f63e"
 
 [[files]]
 file = "mods/EasyNavigator+1.21-1.2.2.jar"
@@ -1789,8 +1837,8 @@ file = "mods/balm-fabric-1.21.1-21.0.65.jar"
 hash = "195c4f64ce30d47896b0667ac38fcefe21278b91c9f83b7251329947b5ac1be3"
 
 [[files]]
-file = "mods/bettermoon-rested-1.0.6-fabric-1.21.1.jar"
-hash = "d9f2e0ae2829fd6388ee4f793ead7a00ded3b395aa72954cca5ceb047117e7eb"
+file = "mods/bettermoon-rested-1.0.7-fabric.jar"
+hash = "45e07de7801fb11a06a3af379c820e87184fe97028ff27f2e8daf1f2bb520d5c"
 
 [[files]]
 file = "mods/chatanimation-fabric-1.3.1+mc1.21.jar"
@@ -1809,8 +1857,8 @@ file = "mods/cobblemon-cards-fabric-1.0.4.jar"
 hash = "e4adfeec94d2471c5a7da005822c40084aefe7c9814d0f897791c2521b470e68"
 
 [[files]]
-file = "mods/cobblemon-leaderboards-fabric-2.2.jar"
-hash = "611710bd897d9132f94fe94c852c6a6193878ff79dfb2e794244dc247bf039c4"
+file = "mods/cobblemon-leaderboards-fabric-3.0.jar"
+hash = "0159ad7fd23d31b276a70bc48ae6192e63b79b5c76b7ce17f0b7641dd8aa69e3"
 
 [[files]]
 file = "mods/cobblemon-progress-items-4.0.0.jar"
@@ -1822,20 +1870,20 @@ hash = "03712fbb05c5a74dc16c7445e89a28d812701d3efb6c30e08b5dc3ae81e3f95f"
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "10dbad374845aed1920fdcf4220672ee4efcc0233eb3b065a2fc144cb46c453f"
+hash = "ff53530dfa58d541f0e4081ee53f8a696a40b7dd463596332236c5f66b25d633"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon_quests-[1.21.1]-fabric-1.2.0.jar"
-hash = "2d6321bf24532d036a261b1ad06eb386a931354446453e66ebac7a0a5dbc7d0d"
+file = "mods/cobblemon_quests-reloaded-[1.21.1]-fabric-2.0.1+1.8.0.jar"
+hash = "0a9c0a251933c24f9faf4222fc5536c8e8fb2c01b9d363678430e70789b90d77"
 
 [[files]]
-file = "mods/cobblemonintegrations-fabric-1.21.1-1.1.6.jar"
-hash = "d070f29970e39c77da578c05c762bbec093fe796b3ea82bafe79012df4268c12"
+file = "mods/cobblemonintegrations-fabric-1.21.1-1.1.8.jar"
+hash = "c11481b0d77f3fbe7d8b16fe94a9448ae1608c07fc5800ae2bcc1f5cd000f088"
 
 [[files]]
-file = "mods/cobblemonraiddens-fabric-0.11.7+1.21.1.jar"
-hash = "d180cf553e0c851713ed7c0178b8b3c75b22ab704e71f30ff96d2b21721cc68f"
+file = "mods/cobblemonraiddens-fabric-0.12.1+1.21.1.jar"
+hash = "154ba7fc530fa576c87801cddf8f6ea0c8c8deda18d920bff0976d9c8eb55a8c"
 
 [[files]]
 file = "mods/cobblespawners-2.1.7.jar"
@@ -1962,8 +2010,8 @@ file = "mods/jei-1.21.1-fabric-19.50.0.414.jar"
 hash = "e031370fb4a325d40243c2f31e5261c7715e1f500f1ee37874892af2ada8e161"
 
 [[files]]
-file = "mods/journeymap-fabric-1.21.1-6.0.7.jar"
-hash = "e0d13cfcc623d4c5bf71fee746bcb2232c2a887e4fd780785eedfd94e11e8c87"
+file = "mods/journeymap-fabric-1.21.1-6.0.0.jar"
+hash = "67bed0b567c76f809f4e0cd32dd779ad9ee514fc6d94133f332ea81bd252e8a2"
 
 [[files]]
 file = "mods/konkrete_fabric_1.9.9_MC_1.21.jar"
@@ -2034,8 +2082,8 @@ file = "mods/polytone-1.21-4.1.0-fabric.jar"
 hash = "bcd1770396f32758e97a51229c3bc5f21de8c4498f8bc62d5d5aa301d0e731e4"
 
 [[files]]
-file = "mods/rctapi-fabric-1.21.1-0.15.2-beta.jar"
-hash = "e5bd96b1b74aad41588acc078e7385ca72f66a862aae47adda3d55b44c1d5ba8"
+file = "mods/rctapi-fabric-1.21.1-0.16.1-beta.jar"
+hash = "913f12bc77ab43cd4ee85209b078db48359490d16543648ba097fa2e7910c84e"
 
 [[files]]
 file = "mods/reactive-music.pw.toml"
@@ -2091,8 +2139,8 @@ file = "mods/zone-item-commands-0.2.6.jar"
 hash = "55a8e8ed269b9d05d66b5403742aafed463a2f723ce3d7689a8ba59ab18f4f12"
 
 [[files]]
-file = "resourcepacks/CCC_2.1.zip"
-hash = "ce3d789b6f5a7a29018ba4c26cc384e51214bcbf891014b3f43218b33cba0174"
+file = "resourcepacks/CCC_2.2.zip"
+hash = "b9eb5f8a3da47fac3a021b394a03395425dd6acd6a4693abb665ac0a10e327fa"
 
 [[files]]
 file = "resourcepacks/Cobblemon Interface Modded v1.9.4.zip"
@@ -2105,6 +2153,10 @@ hash = "eb40bd047c2e1443c43731e4d1ef1b9d7d0624476336f540b52a3e8fcb9eb315"
 [[files]]
 file = "resourcepacks/FA+Player-v1.1.zip"
 hash = "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33"
+
+[[files]]
+file = "resourcepacks/Maxi's-JM+CM_Pixel-U11.zip"
+hash = "69b895090273093492ea7eded6d7dfb0ff5a8460ec4bc50d369f300aabad299d"
 
 [[files]]
 file = "resourcepacks/OurStory FTB Theme - 2.0 - 1.21.1.zip"
