@@ -325,12 +325,32 @@ file = "config/easy_npc/skin/humanoid/Captain-of-the-Empress-Elizabeth-Bayle-on-
 hash = "2e66c0a383c42523bec3438c4cc0a3e91094f148e7caedc4436b6d2143230307"
 
 [[files]]
+file = "config/easy_npc/skin/humanoid/auguste.png"
+hash = "480d73fe60289cbcbd7594360013db3ad1f5cb22a66bd247bea16126ec7fca88"
+
+[[files]]
 file = "config/easy_npc/skin/humanoid/carte.png"
 hash = "270eeae01fdc362e2faf9d5081e3b28b2ad483f1c8042356b3308a0ac4d81e55"
 
 [[files]]
 file = "config/easy_npc/skin/humanoid/humanoid_template.png"
 hash = "b96aee293379a6a60a0e862dc338eb6a14ea31929b4f78d9923eb6b60940106c"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/koga.png"
+hash = "b7f65e70fa8da5237fb7cb6982df13ccba17e04b35d824286c355cd96013cad6"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/majorbob.png"
+hash = "2bc2bcac490caceb634f35ec94d39993e78b4526063bb52f81c87559742e7e0e"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/pierre.png"
+hash = "8eb4dc0b029f63421af2b27c677afafb26daab72902f2a46dfd47d2a03acf29e"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid_slim/erika.png"
+hash = "36b21b0a36a1ff9090a7ab144bfbbfa2952652b480c75c25762564d12ccd64b7"
 
 [[files]]
 file = "config/easy_npc/skin/humanoid_slim/flora.png"
@@ -346,7 +366,11 @@ hash = "fa7c6c50b795500f7dc5c63a8afea3fabedb1428b724b2b60c79d0eef3044bc9"
 
 [[files]]
 file = "config/easy_npc/skin/humanoid_slim/morgane.png"
-hash = "dda3e74af7a5413d932d4ffa8fd70e22e96a6971b355ccdef44e5c7f569c9b43"
+hash = "b0fcb175a5b0c9a7c810950e11614b332459440c67a480cff0bea7e79aeffd26"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid_slim/ondine.png"
+hash = "6c9ff25f62c1d4820f249cf0276ceb2d86ef09a081e10a20414dca84c0486714"
 
 [[files]]
 file = "config/easy_npc/skin/husk/husk_template.png"
