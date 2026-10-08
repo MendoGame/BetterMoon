@@ -534,7 +534,7 @@ hash = "5fecbadcf309562b1973784b6a516f6127c132f9887025b60ec9811f052845e9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "866d2470ccc61eab8fc6ee26ae14a53eb212af4a5afed3ac28a36ad462cfa778"
+hash = "7df8e9e7c69debd4484af8d544413a70414ef380292dd1b7e2c065c2a90f6a04"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -1841,6 +1841,14 @@ file = "mods/bettermoon-rested-1.0.7-fabric.jar"
 hash = "45e07de7801fb11a06a3af379c820e87184fe97028ff27f2e8daf1f2bb520d5c"
 
 [[files]]
+file = "mods/blabber-1.8.1-standalone-FIXED.jar"
+hash = "dfecba21182fd8607ca658f96b458811d0d4b140ebef86eb1947242dcdaa0e64"
+
+[[files]]
+file = "mods/blabber_jei_v2.jar"
+hash = "2b378aebf3986a50198c72d5d127efe714b7aae244297878adff030c8fd71933"
+
+[[files]]
 file = "mods/chatanimation-fabric-1.3.1+mc1.21.jar"
 hash = "33e863348691c5d7094b938e23a81a7ef39a1e0c9fd3a029dcdcadc6e05a2033"
 
@@ -2058,6 +2066,10 @@ file = "mods/modmenu-11.0.4.jar"
 hash = "a88e0d67c82b0434cbf56776c482587c275ed660f635d33f53ba485dfa30dcc3"
 
 [[files]]
+file = "mods/more_quest_types-fabric-1.3.7.jar"
+hash = "898e6393474016091cdc0e006046b554e364933b5b2f6426131f3888638d7e07"
+
+[[files]]
 file = "mods/numismatic-overhaul-0.3.5+1.21.jar"
 hash = "3373e991675b586b9db11013314d1f971819c85cbc80331da4194cfc9714cc77"
 
@@ -2109,6 +2121,10 @@ hash = "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353"
 [[files]]
 file = "mods/spark-1.10.109-fabric.jar"
 hash = "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047"
+
+[[files]]
+file = "mods/tbcs-fabric-1.21.1-0.15.0-beta.jar"
+hash = "eb875fb4d8863fd5852757cefd58bb4d2318051031bfcf63d13c88db10d7c07b"
 
 [[files]]
 file = "mods/tutorialsuppressor-0.1.0+1.20.1-fabric.jar"
