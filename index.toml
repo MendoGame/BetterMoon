@@ -2114,6 +2114,10 @@ file = "mods/pokeblocks-1.5.0-1.21.1.jar"
 hash = "0cd1ce19b16efe7477cfd4501d1ee3e7c575af113e72ac2ed0f540740eb6a43c"
 
 [[files]]
+file = "mods/pokemon-fly-transitions-fabric-1.6.2.jar"
+hash = "94464cacc9323a823c18e8a7c2708ce5cd93f9ca79fcf2c69a3da0299e6de824"
+
+[[files]]
 file = "mods/polytone-1.21-4.1.0-fabric.jar"
 hash = "bcd1770396f32758e97a51229c3bc5f21de8c4498f8bc62d5d5aa301d0e731e4"
 
