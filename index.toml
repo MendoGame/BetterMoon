@@ -241,6 +241,22 @@ file = "config/cupboard.json"
 hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
 
 [[files]]
+file = "config/defaultoptions-common.toml"
+hash = "ccb344fd27ed052fcf3965ba6179842da97983e65bc08aff1b2f9c5e8fa01681"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "258f9fc40451c77ec2faa3fb39cc1571d167235d27f812f93c43d418bcf70d72"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "31310a16eaa69be69484f71c5a81708b7fe56911b5d25de1b79ded7ba3480513"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "6aeec4178a067c04cf7cf549960dd4899e59aee4c82a2d708dca1b706a586d74"
+
+[[files]]
 file = "config/dimworldborder-server.toml"
 hash = "f5acd2c210c0ffdf10e871e82b150c7080f33e63664d4399c225ff458d16a9a0"
 
@@ -1501,6 +1517,30 @@ file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/waystones/lang
 hash = "f4f3338c3e418b9d067b4d66234abd34553dbb61e7df890892e42119ebf901ab"
 
 [[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/yyzsbackpack/lang/en_us.json"
+hash = "3dd0d025355b6bf57e9e14d0427545535e48308441e703cb4630c13ca3325cad"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/yyzsbackpack/textures/gui/2x9backpack.png"
+hash = "e15a7526c2466fec10a5d5812e510869771fb3821f47646e14363ff7824b4afe"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/yyzsbackpack/textures/gui/4x9backpack.png"
+hash = "1ebd8097bf23cf30e973382bf10910c742b7472d97616c8a6e92334aaed32816"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/yyzsbackpack/textures/gui/6x9backpack.png"
+hash = "0932d355dba7d39b5113e245fa380ba5a5ae69d58a95e2a5b154a7cecb24d916"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/yyzsbackpack/textures/gui/backpack.png"
+hash = "c2bf9b14c9ab1e3bc2b7527e1693577c7291f493ba58e04a911c32bb9f61f81a"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/yyzsbackpack/textures/gui/slot.png"
+hash = "a7983a8c515468af27a9372d36f6980034743651ccdfbbb8718a3e0e35d9ae00"
+
+[[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/pack.mcmeta"
 hash = "2fcd4590bb0257bae85c67440ad9c667ad0545019feea074b3b3d3e9b70a4d3c"
 
@@ -1833,6 +1873,10 @@ file = "mods/Paxi-1.21.1-Fabric-5.1.3.jar"
 hash = "3bbdbec0b918e4bee859a13b5408382ee3dc1a4f3046b81c14cd52560df699ee"
 
 [[files]]
+file = "mods/TreeChop-1.21.1-fabric-0.19.3a.jar"
+hash = "0dc097bc1a6f327b32b1c1bafadfa42b2a840280ab9b7808cc36df3f822cae55"
+
+[[files]]
 file = "mods/YSNS-Fabric_Quilt-MC1.21-1.0.6.jar"
 hash = "7759bbd2ef3c8c0f26ab9ca3f9d9b086381dabf758b3b085f42b723efbf46276"
 
@@ -1922,8 +1966,8 @@ file = "mods/cobblespawners-2.1.7.jar"
 hash = "5b51d0d7dad24b8de92f0be2e4b65b945369229f4b2ebaa738285561066a2f19"
 
 [[files]]
-file = "mods/collective-1.21.1-8.39.jar"
-hash = "ae59b63790c3097fb01e7801c21f3e7feed13b151c2ad993895196c74381a8fe"
+file = "mods/collective-1.21.1-8.40.jar"
+hash = "c466e9a8319e12d8fae912aeb9d9453efed43246f64edc48c4aa7ca14238a834"
 
 [[files]]
 file = "mods/common-networking-fabric-1.0.21-1.21.1.jar"
@@ -1932,6 +1976,10 @@ hash = "d4612a131ca7d5ccaae97bad6e338c2ec3d0083e0242de4e5d689e966c5b66cd"
 [[files]]
 file = "mods/cupboard-fabric-1.21.1-4.1.jar"
 hash = "54c7978f5a3ed3d3e200ce08ee80ac85dc4072bb2d42090cfd5372ec1816e3c8"
+
+[[files]]
+file = "mods/defaultoptions-fabric-1.21.1-21.1.8.jar"
+hash = "4241d1a9f95d656b018a42ab4d51fe5893de5891b36fcc0d74b8c27eae07de14"
 
 [[files]]
 file = "mods/deimos-1.21.1-fabric-2.7.jar"
@@ -2151,6 +2199,10 @@ file = "mods/spark-1.10.109-fabric.jar"
 hash = "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047"
 
 [[files]]
+file = "mods/stackrefill-1.21.1-5.1.jar"
+hash = "173fbf2b212bf19a2d2807b23a097d957d3fd14b7109a29859b8a349799ebe20"
+
+[[files]]
 file = "mods/tbcs-fabric-1.21.1-0.15.0-beta.jar"
 hash = "eb875fb4d8863fd5852757cefd58bb4d2318051031bfcf63d13c88db10d7c07b"
 
@@ -2177,6 +2229,10 @@ hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
 hash = "6ab420b7d1326fc9851b96a8967504bd644da421ed6438ceb9a9d9c993a408b1"
+
+[[files]]
+file = "mods/yyzsbackpack-fabric-21.1.13.jar"
+hash = "100e8477957fc23264a3654c56ff8a5fa1531eefca07e938d0ea6be6bd1b5d1a"
 
 [[files]]
 file = "mods/zone-item-commands-0.2.6.jar"
