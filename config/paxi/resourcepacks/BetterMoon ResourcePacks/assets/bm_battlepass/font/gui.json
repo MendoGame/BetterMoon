@@ -1,0 +1,47 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "": -8,
+        "": -169
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "bm_battlepass:font/main.png",
+      "ascent": 13,
+      "height": 132,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "bm_battlepass:font/quests.png",
+      "ascent": 13,
+      "height": 132,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "bm_battlepass:font/rewards.png",
+      "ascent": 13,
+      "height": 132,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "bm_battlepass:font/premium.png",
+      "ascent": 13,
+      "height": 132,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

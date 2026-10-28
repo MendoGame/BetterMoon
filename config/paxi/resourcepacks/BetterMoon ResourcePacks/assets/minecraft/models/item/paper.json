@@ -1,0 +1,62 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 11000
+      },
+      "model": "bm_battlepass:item/rewards"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11003
+      },
+      "model": "bm_battlepass:item/premium"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11004
+      },
+      "model": "bm_battlepass:item/back"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11005
+      },
+      "model": "bm_battlepass:item/prev"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11006
+      },
+      "model": "bm_battlepass:item/next"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11007
+      },
+      "model": "bm_battlepass:item/reset"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11008
+      },
+      "model": "bm_battlepass:item/level_done"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11009
+      },
+      "model": "bm_battlepass:item/level_locked"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11022
+      },
+      "model": "bm_battlepass:item/empty_reward"
+    }
+  ]
+}

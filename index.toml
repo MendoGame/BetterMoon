@@ -1173,6 +1173,98 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/font/gui.json"
+hash = "bbccabc4f2afe80d362a51b0ec65ab66b96a35b00c0fd1cb48d745c0eaeb86c2"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/models/item/back.json"
+hash = "920cf80d8097f2437b0b66b349bbde22daad1dea036b4ae8ea1b824b22d41c1c"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/models/item/empty_reward.json"
+hash = "540b40bd072f6e4212792b17893c600f25240da5a4deacddcb6046a1217431a5"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/models/item/level_done.json"
+hash = "5a7c6706866cd060e092b4ae20960d0c471f76e22d68fda47ba0d23a3b8623c0"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/models/item/level_locked.json"
+hash = "4bf2cec19612917c6d9bd91263f2e9e1a3137541043657d4cde47261ff99557b"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/models/item/next.json"
+hash = "84d9a72e00b385852985ef8f15ae17cac4dc8c0eca63e7ef6a1b2b06c8782236"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/models/item/premium.json"
+hash = "0a3bd9373ac8ce70ed0bbd2cd6bed14561db93f9b9bd609c0e50ced92ea1cca9"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/models/item/prev.json"
+hash = "4d063fce4174cc3943893c39255a7b4885aaf2dc3489527743ad5b841b3d2b32"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/models/item/reset.json"
+hash = "36d97df7ad291e302dc71dd872d259a6dcfe8002fcbc338f718f0c7ed29f3bee"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/models/item/rewards.json"
+hash = "03af42021ca736802e85d532b5d7f819939b75c4af34c5caa6fd2be44b4508c2"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/textures/font/main.png"
+hash = "f84a2e261b15ea7c51e980873b063dd4c9ada8b8dc468c1d233660ff54ec8d47"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/textures/font/premium.png"
+hash = "47d8db6a5c32a7c660fe55c9735c00b2f49e857fa16313c0d001514ed2227e95"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/textures/font/quests.png"
+hash = "ab210438508184def3f8e973ae6e1644359d410aaf14015c0eff71b579519da1"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/textures/font/rewards.png"
+hash = "665a7c84a0bc77b0c378fbce771355aa3dd1ce8d747636532d0c2e0ec592c311"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/textures/item/back.png"
+hash = "80f92a75edb0559d6929e8ec2b5231a92f41d8e49f5073782c5e481e91e8fb98"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/textures/item/empty_reward.png"
+hash = "81b8052c52459ff760fe55fee2ff8d2e244f5b668120fa0d7b88bde3f340eb68"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/textures/item/level_done.png"
+hash = "b9d2f52fb3d4a51c9f79e902cf80fcba8997e8d1f0201c275c0e88f220fef910"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/textures/item/level_locked.png"
+hash = "b0556b486f68fc142f9b75ccd235d33f98a20d3fe722630efd3c93a50be21ceb"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/textures/item/next.png"
+hash = "db643c0ab6bc1c51ca6a43d3dfa81a6e34ad57cca33520468cd074694206649d"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/textures/item/premium.png"
+hash = "33422b5b1fdff3afd5e1bb6918342e785418d3380d352187ff91181d103f00b8"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/textures/item/prev.png"
+hash = "f4747062012d4846cccf128c2ada4af802689f6654cd843ccd4a216bcd258edc"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/textures/item/reset.png"
+hash = "ec46beec6820390e4ffd7b61dfd80322883d2e1c91079a2371756dcd1e99560b"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/bm_battlepass/textures/item/rewards.png"
+hash = "b0556b486f68fc142f9b75ccd235d33f98a20d3fe722630efd3c93a50be21ceb"
+
+[[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/cobblemon/bedrock/pokemon/resolvers/0006_charizard/0_charizard_base.json"
 hash = "13ff886e268606c750a3c1caf521085e3e0930f396de79f9a8fe10bb0fac0b48"
 
@@ -1415,6 +1507,10 @@ hash = "6b7cb1953f454def1d5db9774f33eea607f0dfd21dcac96f7c752e6a4da6a4fb"
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/minecraft/font/default.json"
 hash = "f1a1d3e975b95ff660fffee12035eed76d9c3cfed53869cc215f72a35606c1ba"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/minecraft/models/item/paper.json"
+hash = "1c5b631d9ef9eb32c9491b1f65297abeb32ad0da33f9e163633797382dcbd115"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/minecraft/textures/font/acier.png"
