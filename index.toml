@@ -1937,6 +1937,10 @@ file = "mods/ImmersiveUI-FABRIC-0.3.3+1.21.1.jar"
 hash = "2d6c41126529f45e968813e50ea9a61a6b47c2976a7cd754fb5f5e400afcd582"
 
 [[files]]
+file = "mods/InventoryProfilesNext-fabric-1.21.1-2.2.6.jar"
+hash = "b69ac6f98e99042d6edd755242bf76d35eea4342559d2b1d88160e556c629177"
+
+[[files]]
 file = "mods/Item_Obliterator-Fabric_Quilt-MC_1.21-3.1.1.jar"
 hash = "5cdeb21113f8055c9d3f47daf579b0672145f628a04c1c719aa77c703dbbf16c"
 
@@ -2204,6 +2208,10 @@ hash = "ad46db048ef9241bf00281ceaf52699c5733b00b9d36bdb7a2ab6274fe9fac4a"
 [[files]]
 file = "mods/letsparkour-1.21.1-1.8.jar"
 hash = "54542c8ed66f30c126ac90cde3b891cd7bdf24871ca9d65fc31463c876da5d9d"
+
+[[files]]
+file = "mods/libIPN-fabric-1.21.1-6.6.3.jar"
+hash = "e26e788c5c3542353c0c45fba231e9208a01b182d890815c22df40a1946b903e"
 
 [[files]]
 file = "mods/lithium-fabric-0.15.4+mc1.21.1.jar"
