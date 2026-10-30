@@ -697,6 +697,18 @@ file = "config/immersiveui.yaml"
 hash = "2abb8702e36e2745284cb4337508d9e2305ff7bf1d6eebe23bf05de75b3acff6"
 
 [[files]]
+file = "config/inventoryprofilesnext/54.38.69.127&2704/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "03acba92194404874d6ae119680c1ca1a284071486171a77d0f6188a72d15d77"
+
+[[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
@@ -1402,7 +1414,7 @@ hash = "86c73e3c010d849324fd71c59ad2f410bc53af94cd6b2d19d3855961bb745525"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/priteauguste.png"
-hash = "e0d86d7f4df23f764f046d18d21473559cc7224dfa2347d77a6647e41913d8e7"
+hash = "daad878463da11080fe578045f34a13004561a4d1a00a8e6748a4dfe97b4d7a7"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/psy.png"
@@ -1426,27 +1438,27 @@ hash = "e0505b28512ca2e1ddb4670e7b4de286bdac12a9d00c21a2bf33781a77ae3a77"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spriteerika.png"
-hash = "87963ac8cb9f6d5859bfe6adf541fef0af98033cd39c2f192ef71d8656104f5d"
+hash = "b8e29941af2ccb50216af87ba4248edbd247c9877eae875d33520e0fd1f1fa70"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spritekoga.png"
-hash = "e57e766c4ea92b433699aaf6890bea10bf9c4c48393e239d8e6657e0ee0dc923"
+hash = "0e933fbde796b21cf158a6db377756410ae375c7d5123f3fd81affb1205de33f"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spritemajorbob.png"
-hash = "cc44d66fe733219b97de8228e85ea09102b5a45ff53307d2b9d1768ca4e21825"
+hash = "d53550d30e844ba42099e0e5628db6b85d441986d509f1022e6cd259ae66840a"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spritemorgane.png"
-hash = "782e69a52e772cddc3d51632d6009fd138a1d16c0d5a4cd8ecbe17afc006b662"
+hash = "556afba2848a0ce43e8d6e722fcb3983f7ab4547ed4f47f282016330b6ef2067"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spriteondine.png"
-hash = "315b7b16be8b0d4345d3da4ec0a13c1906a5974b563721041a3fe5eba02df893"
+hash = "2f93a3c303bece6480861a190f72b4c029fcf8a51010c80f3a7a255c34c64d39"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spritepierre.png"
-hash = "6c1bab72aa29a3d470b7e6c4cd8729a44a76cd191d81bb20db9d79d5dc6f9287"
+hash = "b796d111ad6d6e98bc45b33e4929363fb800d2dc527346fbc7610f1e880cfa2e"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spritequotidienne.png"
