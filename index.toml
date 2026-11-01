@@ -1469,6 +1469,18 @@ file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures
 hash = "b8e29941af2ccb50216af87ba4248edbd247c9877eae875d33520e0fd1f1fa70"
 
 [[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spritegiovanni.png"
+hash = "e8cb390260f8c5c2b9bb708323a112eb425cd21775662f20096e24e8933b8970"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spritehector.png"
+hash = "2bd6399c2584f8b1d1c4b580118323131193445db82bd402cc12ac1e2aee4fba"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spritejasmine.png"
+hash = "cf5ce190d1494f33417aee89eeb3be7ae9967898f16e591855843dc9b724c434"
+
+[[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spritekoga.png"
 hash = "0e933fbde796b21cf158a6db377756410ae375c7d5123f3fd81affb1205de33f"
 
@@ -1477,12 +1489,20 @@ file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures
 hash = "d53550d30e844ba42099e0e5628db6b85d441986d509f1022e6cd259ae66840a"
 
 [[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spritemarion.png"
+hash = "0877b25f3e76466affdda0d3883da79411d5f445976f7275ca55556504ed799b"
+
+[[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spritemorgane.png"
 hash = "556afba2848a0ce43e8d6e722fcb3983f7ab4547ed4f47f282016330b6ef2067"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spriteondine.png"
 hash = "2f93a3c303bece6480861a190f72b4c029fcf8a51010c80f3a7a255c34c64d39"
+
+[[files]]
+file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spritepeter.png"
+hash = "43c71058bfca6f71bd89f0842d7d665084671f4c50392e45caf3c1eb22a4b30a"
 
 [[files]]
 file = "config/paxi/resourcepacks/BetterMoon ResourcePacks/assets/image/textures/spritepierre.png"
