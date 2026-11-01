@@ -89,6 +89,14 @@ file = "config/cobblemon_secret_base_trainer/skins/Erika.png"
 hash = "e037d6fa82a6b69f5d1b66325e8a91e19ee55f57e4ff54761fdd084dcf6d121a"
 
 [[files]]
+file = "config/cobblemon_secret_base_trainer/skins/TR-F.png"
+hash = "ba80b28b1f64315f85a5bfda48dbb7a0c729718e1e5d76cb5d37047f68582908"
+
+[[files]]
+file = "config/cobblemon_secret_base_trainer/skins/TR-M.png"
+hash = "17ad3b4f01c3a4a7b8054b788dcdee8b30fa0b896fd2bb1da94b5193667402d3"
+
+[[files]]
 file = "config/cobblemon_secret_base_trainer/skins/brock.png"
 hash = "c919b95b82f29f23cc909c789219a8c8eb67ceb91ed2ddce5910d4653587262a"
 
@@ -339,6 +347,26 @@ hash = "230f5e03db1cb6d057894754b815018dbcc24cb2c1880c5823dabdfa7b4b53b3"
 [[files]]
 file = "config/easy_npc/skin/humanoid/Captain-of-the-Empress-Elizabeth-Bayle-on-planetminecraft-com.png"
 hash = "2e66c0a383c42523bec3438c4cc0a3e91094f148e7caedc4436b6d2143230307"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Giovanni.png"
+hash = "30949b0a9097acb5b2e78ee6a7e8a7a076624019e3c13054b73b013da75a0bc9"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Hector .png"
+hash = "d4510ce74bab099acad1e9b70632ef67c9e712676aefc4f51172b7e1e4175ee3"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Jasmine.png"
+hash = "c6f1823de5f2dfd60fb3f69c389142631ce161d7463e1a1fa4f7bb11f754da50"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Marion.png"
+hash = "f898deaedfd579b7c6b0e2979be47e72cbdedccc5f5851ea4327e4af2f925ef1"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Peter.png"
+hash = "1cbdf4c8d261d4243a7161cb904bae891ca35cd693192e76e707c034a05fb229"
 
 [[files]]
 file = "config/easy_npc/skin/humanoid/auguste.png"
