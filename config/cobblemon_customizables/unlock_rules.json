@@ -1,0 +1,57 @@
+{
+  "skins": {
+    "skin-ecarlat-lucario": {
+      "itemCosts": [
+        {
+          "item": "bm_economy:moon_coin",
+          "count": 5
+        }
+      ],
+      "scores": [],
+      "economyCosts": [],
+      "tags": [],
+      "teams": [],
+      "ignoreDetectedItemCosts": true
+    },
+    "skin-ecarlat-garchomp": {
+      "itemCosts": [
+        {
+          "item": "bm_economy:moon_coin",
+          "count": 5
+        }
+      ],
+      "scores": [],
+      "economyCosts": [],
+      "tags": [],
+      "teams": [],
+      "ignoreDetectedItemCosts": true
+    },
+    "skin-ecarlat-scizor": {
+      "itemCosts": [
+        {
+          "item": "bm_economy:moon_coin",
+          "count": 5
+        }
+      ],
+      "scores": [],
+      "economyCosts": [],
+      "tags": [],
+      "teams": [],
+      "ignoreDetectedItemCosts": true
+    },
+    "skin-ecarlate-charizard": {
+      "itemCosts": [
+        {
+          "item": "bm_economy:moon_coin",
+          "count": 5
+        }
+      ],
+      "scores": [],
+      "economyCosts": [],
+      "tags": [],
+      "teams": [],
+      "ignoreDetectedItemCosts": true
+    }
+  },
+  "disabledMetadataQuests": []
+}
