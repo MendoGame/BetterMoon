@@ -385,14 +385,6 @@ file = "config/easy_npc/skin/humanoid/2nd-Mate-of-the-Empress-Orse-on-planetmine
 hash = "ca1d4e8e9169b9922f4196b3c14244b5481adb119a0bd49c96e2078fcad95165"
 
 [[files]]
-file = "config/easy_npc/skin/humanoid/70e3956ebabb4893.png"
-hash = "3fdbe82b38ac7c15ade370859b4dd6e1405b262aeff245fb435cff31ba7b865d"
-
-[[files]]
-file = "config/easy_npc/skin/humanoid/8ccb6d4fde94fbcc.png"
-hash = "230f5e03db1cb6d057894754b815018dbcc24cb2c1880c5823dabdfa7b4b53b3"
-
-[[files]]
 file = "config/easy_npc/skin/humanoid/Captain-of-the-Empress-Elizabeth-Bayle-on-planetminecraft-com.png"
 hash = "2e66c0a383c42523bec3438c4cc0a3e91094f148e7caedc4436b6d2143230307"
 
@@ -421,12 +413,24 @@ file = "config/easy_npc/skin/humanoid/auguste.png"
 hash = "480d73fe60289cbcbd7594360013db3ad1f5cb22a66bd247bea16126ec7fca88"
 
 [[files]]
-file = "config/easy_npc/skin/humanoid/carte.png"
-hash = "270eeae01fdc362e2faf9d5081e3b28b2ad483f1c8042356b3308a0ac4d81e55"
+file = "config/easy_npc/skin/humanoid/banquier.png"
+hash = "cf47cd6e05d909b6ac85eb935390898937121e8dd6bbb73b7def1f6e210a6bcb"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/collectionneur.png"
+hash = "8233f5095023a9ce8dc86511178ed8b2c0d3710248c5a82bb6de8cd4685e6364"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/flora.png"
+hash = "e8142c9a795b71a7b9b591b1e1666e42a464fca6fc00385d81757093db518145"
 
 [[files]]
 file = "config/easy_npc/skin/humanoid/humanoid_template.png"
 hash = "b96aee293379a6a60a0e862dc338eb6a14ea31929b4f78d9923eb6b60940106c"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/infirmiere-joelle.png"
+hash = "7f2e03cb11f094cd5a752ef3ad2fe69f858c16f0cf917eec8e0c3f5579ff9405"
 
 [[files]]
 file = "config/easy_npc/skin/humanoid/koga.png"
@@ -443,10 +447,6 @@ hash = "8eb4dc0b029f63421af2b27c677afafb26daab72902f2a46dfd47d2a03acf29e"
 [[files]]
 file = "config/easy_npc/skin/humanoid_slim/erika.png"
 hash = "36b21b0a36a1ff9090a7ab144bfbbfa2952652b480c75c25762564d12ccd64b7"
-
-[[files]]
-file = "config/easy_npc/skin/humanoid_slim/flora.png"
-hash = "1c93eac5f09dfcb79a038ef12511d2eb4355fe0dd9783ded6e0a1c02ca3913e5"
 
 [[files]]
 file = "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png"
@@ -2158,8 +2158,8 @@ hash = "ff53530dfa58d541f0e4081ee53f8a696a40b7dd463596332236c5f66b25d633"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon_quests-reloaded-[1.21.1]-fabric-2.0.1+1.8.0.jar"
-hash = "0a9c0a251933c24f9faf4222fc5536c8e8fb2c01b9d363678430e70789b90d77"
+file = "mods/cobblemon_quests-reloaded-[1.21.1]-fabric-2.0.2+1.8.jar"
+hash = "8286cb7c130fdece153aab3d0dced6e5aae6b3553338cc926f52e10203888b6c"
 
 [[files]]
 file = "mods/cobblemonintegrations-fabric-1.21.1-1.1.8.jar"
@@ -2374,8 +2374,8 @@ file = "mods/pokeblocks-1.5.0-1.21.1.jar"
 hash = "0cd1ce19b16efe7477cfd4501d1ee3e7c575af113e72ac2ed0f540740eb6a43c"
 
 [[files]]
-file = "mods/pokemon-fly-transitions-fabric-1.6.2.jar"
-hash = "94464cacc9323a823c18e8a7c2708ce5cd93f9ca79fcf2c69a3da0299e6de824"
+file = "mods/pokemon-fly-transitions-fabric-2.0.0.jar"
+hash = "4040b06ef28db5ee7381cbb66ca7af359620508997672f475f8037f71988a68b"
 
 [[files]]
 file = "mods/polytone-1.21-4.1.0-fabric.jar"
