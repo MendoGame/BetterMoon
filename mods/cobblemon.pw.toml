@@ -1,8 +1,8 @@
 name = "Cobblemon"
-filename = "Cobblemon-fabric-1.8.1+1.21.1.jar"
+filename = "Cobblemon-fabric-1.8.4+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/MendoGame/BetterMoon/releases/download/v1.1.0/Cobblemon-fabric-1.8.1+1.21.1.jar"
+url = "https://github.com/MendoGame/BetterMoon/releases/download/v1.2.0/Cobblemon-fabric-1.8.4+1.21.1.jar"
 hash-format = "sha256"
-hash = "4d90ba6775e3a332aad9d5e49a9f6366f973b3e1a12e0004d22ce21c600eebc5"
+hash = "77c4866b2e4c38afb488ed09b62ffd2729ce291dc793fca9c055c087f0b03978"

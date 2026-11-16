@@ -129,6 +129,34 @@ file = "config/cobblemon_secret_base_trainer/skins/Erika.png"
 hash = "e037d6fa82a6b69f5d1b66325e8a91e19ee55f57e4ff54761fdd084dcf6d121a"
 
 [[files]]
+file = "config/cobblemon_secret_base_trainer/skins/TG-helio.png"
+hash = "06d8c57b5bf14bd5d0a1ca0bc5a1e18389c79a9933eacf8ad2e8b7edfda6d9b2"
+
+[[files]]
+file = "config/cobblemon_secret_base_trainer/skins/TG-jupiter.png"
+hash = "90e28e8206582457e5b75ad7c45bca4ebb7f17604a40f419c46627d7767d1661"
+
+[[files]]
+file = "config/cobblemon_secret_base_trainer/skins/TG-mars.png"
+hash = "90376fee6bd4d25db0447eb514d5076806787f308b33de7ad00c6a91237ef94e"
+
+[[files]]
+file = "config/cobblemon_secret_base_trainer/skins/TG-pluton.png"
+hash = "99bf7cf1917a63be6407e4f16939fa2d742b31ea736f2764f219770cd4b22a76"
+
+[[files]]
+file = "config/cobblemon_secret_base_trainer/skins/TG-saturne.png"
+hash = "4e9990285986655e82784b84dc77747ba6d2529e8ab0193b3c1f6839aa402b90"
+
+[[files]]
+file = "config/cobblemon_secret_base_trainer/skins/TG-sbire-femme.png"
+hash = "753daee331781524a4ab37c762992b0ca2efaf516332c611a544c79f85a5c1d6"
+
+[[files]]
+file = "config/cobblemon_secret_base_trainer/skins/TG-sbire-homme.png"
+hash = "5b725f668c514b7946ac1da96ecbf2018774cf91172de7a33cbbca5027355ed6"
+
+[[files]]
 file = "config/cobblemon_secret_base_trainer/skins/TR-F.png"
 hash = "ba80b28b1f64315f85a5bfda48dbb7a0c729718e1e5d76cb5d37047f68582908"
 
@@ -407,6 +435,34 @@ hash = "f898deaedfd579b7c6b0e2979be47e72cbdedccc5f5851ea4327e4af2f925ef1"
 [[files]]
 file = "config/easy_npc/skin/humanoid/Peter.png"
 hash = "1cbdf4c8d261d4243a7161cb904bae891ca35cd693192e76e707c034a05fb229"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/TG-helio.png"
+hash = "06d8c57b5bf14bd5d0a1ca0bc5a1e18389c79a9933eacf8ad2e8b7edfda6d9b2"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/TG-jupiter.png"
+hash = "90e28e8206582457e5b75ad7c45bca4ebb7f17604a40f419c46627d7767d1661"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/TG-mars.png"
+hash = "90376fee6bd4d25db0447eb514d5076806787f308b33de7ad00c6a91237ef94e"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/TG-pluton.png"
+hash = "99bf7cf1917a63be6407e4f16939fa2d742b31ea736f2764f219770cd4b22a76"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/TG-saturne.png"
+hash = "4e9990285986655e82784b84dc77747ba6d2529e8ab0193b3c1f6839aa402b90"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/TG-sbire-femme.png"
+hash = "753daee331781524a4ab37c762992b0ca2efaf516332c611a544c79f85a5c1d6"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/TG-sbire-homme.png"
+hash = "5b725f668c514b7946ac1da96ecbf2018774cf91172de7a33cbbca5027355ed6"
 
 [[files]]
 file = "config/easy_npc/skin/humanoid/auguste.png"
@@ -2025,8 +2081,8 @@ file = "mods/CobblemonCustomizables-3.0.0-1.8.jar"
 hash = "6de1f4919d2ac3974dcb84e8048f62d00d5c30b517d73095e72293ed6b41f7ca"
 
 [[files]]
-file = "mods/CobblemonTrialsEdition-fabric-2.2.0.jar"
-hash = "4aa6fc2e689134d308d370e1d14b434acb7fd87049aac1323d8e1f2342e6f63e"
+file = "mods/CobblemonTrialsEdition-fabric-3.0.1.jar"
+hash = "67615704ec847d09434252e65daadecba59f98312af7ecc78d6cadaa10dc0b5e"
 
 [[files]]
 file = "mods/EasyNavigator+1.21-1.2.2.jar"
@@ -2101,6 +2157,10 @@ file = "mods/architectury-13.0.11-fabric.jar"
 hash = "ab17d5c7d8d8c93cc713437ed426f0ff0d6f802a48fff0c579a9bd3aaa833efd"
 
 [[files]]
+file = "mods/asymmetricbattles-fabric-1.4.2-1.21.1.jar"
+hash = "a91ba402f1cce32a18b37f81469d592489513bd93cd9d073acd4b9c668f2d2af"
+
+[[files]]
 file = "mods/athena-fabric-1.21.1-4.0.6.jar"
 hash = "e17aad84c690ac4e46300a4180b3ae4077ffa4f526dbc82d117afbbff4ee83e4"
 
@@ -2141,8 +2201,8 @@ file = "mods/cobblemon-cards-fabric-1.0.4.jar"
 hash = "e4adfeec94d2471c5a7da005822c40084aefe7c9814d0f897791c2521b470e68"
 
 [[files]]
-file = "mods/cobblemon-leaderboards-fabric-3.0.jar"
-hash = "0159ad7fd23d31b276a70bc48ae6192e63b79b5c76b7ce17f0b7641dd8aa69e3"
+file = "mods/cobblemon-leaderboards-fabric-4.0.jar"
+hash = "e319c92863172e15c95057bf092925fd1f8440b9eb1d92e7a0bbb0d3d76e4b95"
 
 [[files]]
 file = "mods/cobblemon-progress-items-4.0.0.jar"
@@ -2154,7 +2214,7 @@ hash = "03712fbb05c5a74dc16c7445e89a28d812701d3efb6c30e08b5dc3ae81e3f95f"
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "ff53530dfa58d541f0e4081ee53f8a696a40b7dd463596332236c5f66b25d633"
+hash = "942055b6dabf0e1a68f396ee8f7a0b6023134a2c142d247c9c1e428a4fb08438"
 metafile = true
 
 [[files]]
@@ -2166,8 +2226,8 @@ file = "mods/cobblemonintegrations-fabric-1.21.1-1.1.8.jar"
 hash = "c11481b0d77f3fbe7d8b16fe94a9448ae1608c07fc5800ae2bcc1f5cd000f088"
 
 [[files]]
-file = "mods/cobblemonraiddens-fabric-0.12.1+1.21.1.jar"
-hash = "154ba7fc530fa576c87801cddf8f6ea0c8c8deda18d920bff0976d9c8eb55a8c"
+file = "mods/cobblemonraiddens-fabric-0.13.5+1.21.1.jar"
+hash = "d4adbdc89f7b94111cfdb8506a0c123762abaabdfdf4b4e40027bc735146bd6d"
 
 [[files]]
 file = "mods/cobblespawners-2.1.7.jar"
@@ -2358,6 +2418,10 @@ file = "mods/numismatic-overhaul-0.3.5+1.21.jar"
 hash = "3373e991675b586b9db11013314d1f971819c85cbc80331da4194cfc9714cc77"
 
 [[files]]
+file = "mods/os-cobblemon-library-fabric-1.5.2.jar"
+hash = "1cf0b5f2fdd8661f0d8532641727b1f7d89bd5e379d7f6fe78152ac70217d1a3"
+
+[[files]]
 file = "mods/owo-lib-0.12.15.4+1.21.jar"
 hash = "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec"
 
@@ -2382,8 +2446,8 @@ file = "mods/polytone-1.21-4.1.0-fabric.jar"
 hash = "bcd1770396f32758e97a51229c3bc5f21de8c4498f8bc62d5d5aa301d0e731e4"
 
 [[files]]
-file = "mods/rctapi-fabric-1.21.1-0.16.1-beta.jar"
-hash = "913f12bc77ab43cd4ee85209b078db48359490d16543648ba097fa2e7910c84e"
+file = "mods/rctapi-fabric-1.21.1-0.16.2-beta.jar"
+hash = "02534113700d1ddfcdd1c1b00fdf42637413804773f8e67437a823150809bd15"
 
 [[files]]
 file = "mods/reactive-music.pw.toml"
@@ -2443,8 +2507,8 @@ file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
 hash = "6ab420b7d1326fc9851b96a8967504bd644da421ed6438ceb9a9d9c993a408b1"
 
 [[files]]
-file = "mods/yyzsbackpack-fabric-21.1.13.jar"
-hash = "100e8477957fc23264a3654c56ff8a5fa1531eefca07e938d0ea6be6bd1b5d1a"
+file = "mods/yyzsbackpack-fabric-21.1.13-clientfix.jar"
+hash = "88c0122c2c322c693b6497245b2529172957e41592eecd1811d8a5e4186b0aef"
 
 [[files]]
 file = "mods/zone-item-commands-0.2.6.jar"
@@ -2452,7 +2516,7 @@ hash = "55a8e8ed269b9d05d66b5403742aafed463a2f723ce3d7689a8ba59ab18f4f12"
 
 [[files]]
 file = "resourcepacks/CCC_2.2.zip"
-hash = "b9eb5f8a3da47fac3a021b394a03395425dd6acd6a4693abb665ac0a10e327fa"
+hash = "fe3154856b639cffc61c2af1bb365b6cccd2252332d7d9665872aecd89be4c12"
 
 [[files]]
 file = "resourcepacks/Cobblemon Interface Modded v1.9.4.zip"
@@ -2488,7 +2552,7 @@ hash = "c887ab47154919af4417b6c1eaee979fe48862bce3e0e6bdcbd0198a48e8e642"
 
 [[files]]
 file = "resourcepacks/Whimscape_1.20.2-1.21.11_r5.zip"
-hash = "7f61b30f8e983ab495f4a09cdedfe3d950edbcdedcb090b8151b862098da4e71"
+hash = "3cd9e94a2cbd272b6927a0431a0fd8b79c1f345e2824b999385de70cfb6f3ba7"
 
 [[files]]
 file = "resourcepacks/sleepymontweaks2.pw.toml"
